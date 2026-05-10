@@ -290,6 +290,9 @@
       "<<Cheat Code List>>",   
       ""      
     ],
+    "notUnlocked": [
+      "You haven't unlocked any cheat codes yet—maybe that weird knight can give you some clues!"  
+    ],        
     "hard2k1ll": [
       "< hard2k1ll >",
       "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
@@ -411,7 +414,7 @@
       "Gives off a peach-like aroma that makes you dizzy just smelling it…"
     ],
     "ability": [
-      "Makes your whole body feel hot after eating!"
+      "Grants Heat status when fed to \\str[120]"
     ]
   },
   "31": {
@@ -426,7 +429,7 @@
       "Gives off a blueberry-like aroma that brings calm just smelling it…"
     ],
     "ability": [
-      "Brings a sense of calm after eating..."
+      "Grants Drowsy status when fed to \\str[120]"
     ]
   },
   "32": {
@@ -441,7 +444,7 @@
       "Gives off a melon-like aroma that lifts you up just smelling it…"
     ],
     "ability": [
-      "Effect not implemented"
+      "Grants Joyful status when fed to \\str[120]"
     ]
   },
   "33": {

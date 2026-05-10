@@ -227,35 +227,36 @@
     ]
   },
   "AdventurersPathway": {
-    "mapName": " -冒険の遊歩道- "
+    "mapName": "冒険の遊歩道"
   },
   "ShallowRuinsLabyrinth": {
-    "mapName": " -浅層遺跡迷宮- ",
-    "mapDescription": " 数々の謎を孕む巨大迷宮 "
+    "mapName": "浅層遺跡迷宮",
+    "mapDescription": "数々の謎を孕む巨大迷宮"
   },
   "ForgottenCatacombe": {
-    "mapName": " -忘却のカタコンベ- "
+    "mapName": "忘却のカタコンベ"
   },
   "ForestofRuins": {
-    "mapName": " -遺跡の森- "
+    "mapName": "遺跡の森"
   },
   "AbandonedForest": {
-    "mapName": " -捨てられた森- "
+    "mapName": "捨てられた森"
   },
   "ExcavationSite": {
-    "mapName": " -開発中エリア- "
+    "mapName": "開発中エリア"
   },
   "TheFallenChurch": {
-    "mapName": " -堕落の聖堂- "
+    "mapName": "堕落の聖堂",
+    "mapDescription": "わが愛しき小羊よ！何ゆえに我を見捨てたもうたか？"
   },
   "DoorofStar": {
-    "mapName": " -星の門- "
+    "mapName": "星の門"
   },
   "ScorchingLavaZone": {
-    "mapName": " -大焦熱溶岩帯- ",
-    "mapDescription": " 渦巻く灼熱の大地、炎が紡ぐ試練の地 "
+    "mapName": "大焦熱溶岩帯",
+    "mapDescription": "渦巻く灼熱の大地、炎が紡ぐ試練の地"
   },
   "Nibelungen": {
-    "mapName": " -ニーベルンゲン- "
+    "mapName": "ニーベルンゲン"
   }
 }

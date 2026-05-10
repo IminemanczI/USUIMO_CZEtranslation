@@ -221,35 +221,36 @@
     ]
   },
   "AdventurersPathway": {
-    "mapName": " -冒險者小道- "
+    "mapName": "冒險者小道"
   },
   "ShallowRuinsLabyrinth": {
-    "mapName": " -浅層遺跡迷宮- ",
-    "mapDescription": " 孕育衆多謎団的巨大迷宮 "
+    "mapName": "浅層遺跡迷宮",
+    "mapDescription": "孕育衆多謎団的巨大迷宮"
   },
   "ForgottenCatacombe": {
-    "mapName": " -忘却的墓穴- "
+    "mapName": "忘却的墓穴"
   },
   "ForestofRuins": {
-    "mapName": " -遺跡之森- "
+    "mapName": "遺跡之森"
   },
   "AbandonedForest": {
-    "mapName": " -迷失之森- "
+    "mapName": "迷失之森"
   },
   "ExcavationSite": {
-    "mapName": " -开拓中地区- "
+    "mapName": "开拓中地区"
   },
   "TheFallenChurch": {
-    "mapName": " -墮落的聖堂- "
+    "mapName": "墮落的聖堂",
+    "mapDescription": "我可愛的羔羊啊！爲何要離棄我而去？"
   },
   "DoorofStar": {
-    "mapName": " -星之門- "
+    "mapName": "星之門"
   },
   "ScorchingLavaZone": {
-    "mapName": " -大焦熱溶岩帶- ",
-    "mapDescription": " 熔火奔涌之地，唯有堅毅者能踏足其境 "
+    "mapName": "大焦熱溶岩帶",
+    "mapDescription": "熔火奔涌之地，唯有堅毅者能踏足其境"
   },
   "Nibelungen": {
-    "mapName": " -尼伯龍根- "
+    "mapName": "尼伯龍根"
   }
 }

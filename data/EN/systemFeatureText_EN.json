@@ -227,35 +227,36 @@
     ]
   },
   "AdventurersPathway": {
-    "mapName": " -Adventurer's Pathway- "
+    "mapName": "Adventurer's Pathway"
   },
   "ShallowRuinsLabyrinth": {
-    "mapName": " -Shallow Ruins Labyrinth- ",
-    "mapDescription": " A vast labyrinth filled with countless mysteries "
+    "mapName": "Shallow Ruins Labyrinth",
+    "mapDescription": "A vast labyrinth filled with countless mysteries"
   },
   "ForgottenCatacombe": {
-    "mapName": " -Forgotten Catacombe- "
+    "mapName": "Forgotten Catacombe"
   },
   "ForestofRuins": {
-    "mapName": " -Forest of Ruins- "
+    "mapName": "Forest of Ruins"
   },
   "AbandonedForest": {
-    "mapName": " -Abandoned Forest- "
+    "mapName": "Abandoned Forest"
   },
   "ExcavationSite": {
-    "mapName": " -Excavation Site- "
+    "mapName": "Excavation Site"
   },
   "TheFallenChurch": {
-    "mapName": " -The Fallen Church- "
+    "mapName": "The Fallen Church",
+    "mapDescription": "my lovely lamb! Why hast thou forsaken me?"
   },
   "DoorofStar": {
-    "mapName": " -Door of Star- "
+    "mapName": "Door of Star"
   },
   "ScorchingLavaZone": {
-    "mapName": " -Scorching Lava Zone- ",
-    "mapDescription": " A blazing land woven in fire, where trials burn eternal "
+    "mapName": "Scorching Lava Zone",
+    "mapDescription": "A blazing land woven in fire, where trials burn eternal"
   },
   "Nibelungen": {
-    "mapName": " -Nibelungen- "
+    "mapName": "Nibelungen"
   }
 }

@@ -2,43 +2,43 @@
   "3": {
     "name": [],
     "subtitle": [
-	  ""
-	],
+      ""
+    ],
     "description": [
       ""
     ],
-	"variants": {
-		"0": {
-		   "subtitle": [
-	         "\"Feeling restless...\""
-	       ],
-           "description": [
-             "Excitement Level:\\c[2]\\v[25]%\\c[0]"
-           ]
-		},		
-		"1": {
-		   "subtitle": [
-	         "\"The body craves a thrill...\""
-	       ],
-           "description": [
-             "Excitement Level:\\c[10]\\v[25]%\\c[0]"
-           ]
-		},
-		"2": {
-		   "subtitle": [
-	         "\"Losing control...!\""
-	       ],
-           "description": [
-             "Excitement Level:\\c[18]\\v[25]%\\c[0]"
-           ]
-		}
-	}
+    "variants": {
+      "0": {
+        "subtitle": [
+          "\"Feeling restless...\""
+        ],
+        "description": [
+          "Excitement Level:\\c[2]\\v[25]%\\c[0]"
+        ]
+      },
+      "1": {
+        "subtitle": [
+          "\"The body craves a thrill...\""
+        ],
+        "description": [
+          "Excitement Level:\\c[10]\\v[25]%\\c[0]"
+        ]
+      },
+      "2": {
+        "subtitle": [
+          "\"Losing control...!\""
+        ],
+        "description": [
+          "Excitement Level:\\c[18]\\v[25]%\\c[0]"
+        ]
+      }
+    }
   },
   "4": {
     "name": [],
     "subtitle": [
-	  "\"Uwoooo...!\""
-	],
+      "\"Uwoooo...!\""
+    ],
     "description": [
       "Warped into a desire-crazed Beast!  Excitement Level::\\c[18]???%\\c[0]"
     ]
@@ -132,222 +132,222 @@
     "description": [
       "Certified as a ZAKO for cheating!"
     ]
-  },    
+  },
   "28": {
     "name": [],
     "subtitle": [
-	  "Gaming \\str[120]"
-	],
-    "description": [
-      ""	
+      "Gaming \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "She’s really focused on the game, ",
-			 "Best not to bother her too much..."
-           ]
-		},		
-		"1": {
-           "description": [
-			 "She’s still playing...",
-			 "Should I tease her a bit?"
-           ]
-		}
-	}	
-  },   
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "She’s really focused on the game, ",
+          "Best not to bother her too much..."
+        ]
+      },
+      "1": {
+        "description": [
+          "She’s still playing...",
+          "Should I tease her a bit?"
+        ]
+      }
+    }
+  },
   "29": {
     "name": [],
     "subtitle": [
-	  "Bathing \\str[120]"
-	],
-    "description": [
-      ""	
+      "Bathing \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120]’s in the bath— I can",
-			 "vaguely make out her silhouette"
-           ]
-		},		
-		"1": {
-           "description": [
-			 "\\str[120] is drying her hair ",
-			 "with a towel"
-           ]
-		}
-	}	
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120]’s in the bath— I can",
+          "vaguely make out her silhouette"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] is drying her hair ",
+          "with a towel"
+        ]
+      }
+    }
   },
   "30": {
     "name": [],
     "subtitle": [
-	  "Resting \\str[120]"
-	],
+      "Resting \\str[120]"
+    ],
     "description": [
       ""
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120] looks very happy,",
-			 "Anything interesting happen?"
-           ]
-		},		
-		"1": {
-           "description": [
-             "\\str[120] is getting cuter",
-			 "Maybe give her a pats!"
-           ]
-		},
-		"2": {
-           "description": [
-             "\\str[120] is just sitting",
-			 "there. Try talking to her…"
-           ]
-		},
-		"3": {
-           "description": [
-             "\\str[120] looks a bit sad",
-			 "Maybe try comforting her?"
-           ]
-		},
-		"4": {
-           "description": [
-             "\\str[120] seems a bit off",
-			 "Wonder what could be done…"
-           ]
-		},
-		"5": {
-           "description": [
-             "\\str[120] looks sleepy",
-			 "Maybe it's time for bed?"
-           ]
-		}
-	}
-  },    
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] looks very happy,",
+          "Anything interesting happen?"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] is getting cuter",
+          "Maybe give her a pats!"
+        ]
+      },
+      "2": {
+        "description": [
+          "\\str[120] is just sitting",
+          "there. Try talking to her…"
+        ]
+      },
+      "3": {
+        "description": [
+          "\\str[120] looks a bit sad",
+          "Maybe try comforting her?"
+        ]
+      },
+      "4": {
+        "description": [
+          "\\str[120] seems a bit off",
+          "Wonder what could be done…"
+        ]
+      },
+      "5": {
+        "description": [
+          "\\str[120] looks sleepy",
+          "Maybe it's time for bed?"
+        ]
+      }
+    }
+  },
   "31": {
     "name": [],
     "subtitle": [
-	  "Sleeping \\str[120]"
-	],
+      "Sleeping \\str[120]"
+    ],
     "description": [
       ""
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "Asleep like a plant…",
-			 "unable to be roused…"
-           ]
-		},		
-		"1": {
-           "description": [
-             "Deep asleep…",
-			 "It seems hard to wake her"
-           ]
-		},
-		"2": {
-           "description": [
-             "Sleeping soundly,",
-			 "completely immersed in her dreams…"
-           ]
-		},
-		"3": {
-           "description": [
-             "Her eyelashes twitch",
-			 "as if murmuring in a dream"
-           ]
-		},
-		"4": {
-           "description": [
-             "She seems half-awake",
-			 "murmuring unintentionally"
-           ]
-		},
-		"5": {
-           "description": [
-             "\\str[120] is almost awake",
-			 "but her senses are still hazy"
-           ]
-		},
-		"6": {
-           "description": [
-		     "Defenseless in sleep, lost in ",
-             "last night's blissful exhaustion"
-           ]
-		}
-	}
-  },   
+    "variants": {
+      "0": {
+        "description": [
+          "Asleep like a plant…",
+          "unable to be roused…"
+        ]
+      },
+      "1": {
+        "description": [
+          "Deep asleep…",
+          "It seems hard to wake her"
+        ]
+      },
+      "2": {
+        "description": [
+          "Sleeping soundly,",
+          "completely immersed in her dreams…"
+        ]
+      },
+      "3": {
+        "description": [
+          "Her eyelashes twitch",
+          "as if murmuring in a dream"
+        ]
+      },
+      "4": {
+        "description": [
+          "She seems half-awake",
+          "murmuring unintentionally"
+        ]
+      },
+      "5": {
+        "description": [
+          "\\str[120] is almost awake",
+          "but her senses are still hazy"
+        ]
+      },
+      "6": {
+        "description": [
+          "Defenseless in sleep, lost in ",
+          "last night's blissful exhaustion"
+        ]
+      }
+    }
+  },
   "32": {
     "name": [],
     "subtitle": [
-	  "Hungry \\str[120]"
-	],
-    "description": [
-      ""	
+      "Hungry \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120] is quietly waiting ",
-			 "for dinner"
-           ]
-		},		
-		"1": {
-           "description": [
-			 "\\str[120] seems a bit worried",
-			 "about the dinner taste…"
-           ]
-		},
-		"2": {
-           "description": [
-			 "\\str[120] looks like ",
-			 "she wants to help"
-           ]
-		}
-	}	
-  },   
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] is quietly waiting ",
+          "for dinner"
+        ]
+      },
+      "1": {
+        "description": [
+          "\\str[120] seems a bit worried",
+          "about the dinner taste…"
+        ]
+      },
+      "2": {
+        "description": [
+          "\\str[120] looks like ",
+          "she wants to help"
+        ]
+      }
+    }
+  },
   "33": {
     "name": [],
     "subtitle": [
-	  "Relaxing \\str[120]"
-	],
-    "description": [
-      ""	
+      "Relaxing \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120]’s licking her popsicle…",
-			 "looks way too defenseless..."
-           ]
-		}
-	}	
-  },   
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120]’s licking her popsicle…",
+          "looks way too defenseless..."
+        ]
+      }
+    }
+  },
   "34": {
     "name": [],
     "subtitle": [
-	  "Brushing \\str[120]"
-	],
-    "description": [
-      ""	
+      "Brushing \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120]’s lazily brushing her teeth",
-			 "still looking half-asleep..."
-           ]
-		}
-	}	
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120]’s lazily brushing her teeth",
+          "still looking half-asleep..."
+        ]
+      }
+    }
   },
   "35": {
     "name": [],
     "subtitle": [],
     "description": [
       "✦(Feels like body is ",
-	  "becoming so light...)"
+      "becoming so light...)"
     ]
   },
   "36": {
@@ -360,18 +360,18 @@
   "40": {
     "name": [],
     "subtitle": [
-      "Crying \\str[120]"	
-	],	
+      "Crying \\str[120]"
+    ],
     "description": [
       ""
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\c[10]She ate too much spicy food..."
-           ]
-		}
-	}	
+    "variants": {
+      "0": {
+        "description": [
+          "\\c[10]She ate too much spicy food..."
+        ]
+      }
+    }
   },
   "41": {
     "name": [],
@@ -380,53 +380,61 @@
       "✦Satisfied after eating,",
       "\\str[120] feels happy!"
     ]
-  },  
+  },
   "42": {
     "name": [],
     "subtitle": [
-	  "\\str[120] watching TV"
-	],
-    "description": [
-      ""	
+      "\\str[120] watching TV"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120] curls up like a kitten, ",
-			 "sneaking glances at me."
-           ]
-		},
-		"1": {
-           "description": [
-             "She pressed close to mine, ",
-			 "like holding a warm pillow."
-           ]
-		}
-	}	
-  },   
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] curls up like a kitten, ",
+          "sneaking glances at me."
+        ]
+      },
+      "1": {
+        "description": [
+          "She pressed close to mine, ",
+          "like holding a warm pillow."
+        ]
+      }
+    }
+  },
   "43": {
     "name": [],
     "subtitle": [
-	  "Frightened \\str[120]"
-	],
-    "description": [
-      ""	
+      "Frightened \\str[120]"
     ],
-	"variants": {
-		"0": {
-           "description": [
-             "\\str[120] clung tightly to me,",
-			 "her body trembling slightly…"
-           ]
-		},
-		"1": {
-           "description": [
-             "Our bodies were completely entwined, ",
-			 "exchanging warmth with each other…"
-           ]
-		}	
-	}	
-  },  
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] clung tightly to me,",
+          "her body trembling slightly…"
+        ]
+      },
+      "1": {
+        "description": [
+          "Our bodies were completely entwined, ",
+          "exchanging warmth with each other…"
+        ]
+      }
+    }
+  },
+  "44": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦Not so much 'Joy'... ",
+      "as she's in a total 'HIGH' now!"
+    ]
+  },
   "45": {
     "name": [],
     "subtitle": [
@@ -514,8 +522,8 @@
   "63": {
     "name": [],
     "subtitle": [
-	  "\"Triple speed of True Red\""
-	],
+      "\"Triple speed of True Red\""
+    ],
     "description": [
       ""
     ]
@@ -601,7 +609,7 @@
     "description": [
       "Sensitivity Up! Damage taken is doubled!"
     ]
-  },   
+  },
   "77": {
     "name": [],
     "subtitle": [
@@ -632,8 +640,8 @@
   "80": {
     "name": [],
     "subtitle": [
-	  "\"Triple speed of True Red\""
-	],
+      "\"Triple speed of True Red\""
+    ],
     "description": [
       ""
     ]
