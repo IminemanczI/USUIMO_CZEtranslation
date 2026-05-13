@@ -459,6 +459,7 @@
       "Hits like a shock the moment it touches your tongue!"
     ],
     "ability": [
+      "Grants Sensitive status when fed to \\str[120]",
       "If eaten after being thrown, the target gains a temporary Sensitivity Up status"
     ]
   },
@@ -474,7 +475,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "Violent shaking may trigger a powerful explosion"
+      "Shake vigorously and throw to trigger a massive explosion"
     ]
   },
   "41": {
