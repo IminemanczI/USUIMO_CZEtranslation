@@ -2936,13 +2936,65 @@
     ],
     "beIndependent": true,
     "subtitle": [
-      "\"I see... The game is too difficult, you say?\"",
-      "\"If Your Excellency does not mind, I can provide a special method for you...\""
+      "\"I see... The game is too difficult, you say?",
+      "If Your Excellency does not mind, I can provide a special method for you...\""
     ],
     "description": [
       "A mysterious code provided in secret by the Knight.",
       "It can instantly improve the game experience—but at what cost?"
     ],
     "ability": ""
-  }
+  },
+  "411": {
+    "name": [
+      "Gathering Tales"
+    ],
+    "beIndependent":true,
+    "subtitle": [
+      "\"Guess I'll look for hidden paths...\""
+    ],
+    "description": [
+      "Promised a strange knight to collect interesting stories from the adventure.",
+      "But then again, what even qualifies as 'interesting'...?",
+      "Oh well, maybe some inspiration will strike if I just wander around a bit more—"
+    ],
+    "ability": [
+      "Tales Reported: \\c[6]${$gameNumberArray.value(37).length}"
+    ]
+  },
+  "412": {
+    "name": [
+      "For \\str[120]"
+    ],
+    "beIndependent":true,
+    "subtitle": [
+      "\"Keep exploring into the deeper layers of the Abyss—\""
+    ],
+    "description": [
+      "To cure the constitution of \\str[120], ",
+      "I must search the Abyss for the Philosopher's stone, ",
+      "an ingredient for the legendary medicine."
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "500": {
+    "name": [
+      "Hidden Quest Guide"
+    ],
+    "beIndependent":true,
+    "subtitle": [
+      "\"Just read through the entire guide and beating the game will be a breeze——",
+      " But that's... HOW ZAKOS THINK.",
+      " In this save file, I'm going to permadeath-run the whole thing!\""
+    ],
+    "description": [
+      "In a certain worldline, a player left behind this bold proclamation...",
+      "and charged headfirst into the Tower without a single regret."
+    ],
+    "ability": [
+      "Hidden Quest Guidance Text"
+    ]
+  }  
 }
