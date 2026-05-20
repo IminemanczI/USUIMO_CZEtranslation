@@ -145,61 +145,61 @@
     "použít renderování grafickou kartou nebo aktualizuje vaše drivery pro odstranění problémů."
   ],
   "failedToLoad": [
-    "This kind of issue may be caused by:",
-    "① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.",
-    "② The developer forgetting to include the file—please wait for a patch update to fix it."
+    "Tento typ chyby může být způsoben:",
+    "① Korupcí souborů hry nebo změně názvů souborů, kvůli chybnému zakódování během extrahování/instalace.",
+    "② Vývojáři zapomínající zahrnout soubor-prosím počkejte na aktualizaci, která to opraví."
   ],
   "LowResMode": [
-    "Low Graphics Mode"
+    "Mód nízké grafiky"
   ],
   "lowResModeWarning": [
-    "This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.",
-    "When enabled, the game renders maps and images at a lower resolution and then scales them up, ",
-    "reducing GPU load on mobile devices and lowering heat generation and power consumption.",
-    "Note: This is an experimental feature, and its effectiveness may vary depending on the device.",
-    "You can disable this feature at any time to immediately restore full image clarity."
+    "Tato funkce je hlavně pro optimalizace výkonu na Android zařízeních a možná bude mít malý dopad na počítačové verzi.",
+    "Když povolené, hra rendruje mapy a obrázky v nižším rozlišení a následně je vyškáluje nahoru, ",
+    "snižuje nápor na grafickou kartu na mobilních zařízeních a snižuje zahřívání a spotřeba baterie.",
+    "Poznámka: Toto je experimentální funkce a její efektivita se může lišit zařízení od zařízení.",
+    "Tuto funkci můžete kdykoliv zakázat pro okamžité obnovení veškeré kvalitz obrazu."
   ],
   "cloudSaveServiceWarning": [
-    "As the cloud save database is still under construction,",
-    "this feature will temporarily request access to your Google Drive",
-    "in order to store game save files in the NLCH/save folder.",
-    "Uploaded save files will only be used for future synchronization and ",
-    "downloading back into the game, and will not be used for any other purposes.",
-    "Do you agree to grant the game permission to access your Google Drive?"
+    "S tím, že cloudové ukládání je stále ve vývoji,",
+    "tato funkce si dočasně vyžádá přístup k vašemu Google Disku",
+    "za účelem ukládání  order to store game save files in the NLCH/save folder.",
+    "Nahrávání uložených dat bude používáno pouze pro budoucí synchronizaci a ",
+    "stahování zpět do hry a nebude používáno na žádné další účely.",
+    "Souhlasíš s udělením hře přístup k vašemu Google Disku?"
   ],
   "uploadSaveFile": [
-    "Downloading a save file from Google Drive will overwrite your current local save data!",
-    "Do you want to continue?"
+    "Stahování uložené hry z Google Disku přepíše váše současná lokální uložená data!",
+    "Chete pokračovat?"
   ],
   "nearbyMonstersCount": [
-    "Detected nearby monsters"
+    "Detekováno nedalekých příšer"
   ],
   "nearbyTreasuresCount": [
-    "Detected nearby treasures"
+    "Detekovány nedaleké poklady"
   ],
   "underwaterTreasuresCount": [
-    "Detected underwater treasures"
+    "Detekovány povodní poklady"
   ],
   "steamWishlist": [
-    "Our Steam store page is finally live!",
-    "Please add us to your wishlist and support us! (*´∀`)~♥",
-    "⬇Click below to open the Steam page."
+    "Naše Steam stránka je konečně živě!",
+    "Prosím přidejte si naši hru do seznamu přání a tím nás popořte! (*´∀`)~♥",
+    "⬇Klikněte níže pro otevření naší Steam stránky."
   ],
   "memberMenu": {
     "firstTimeNotice": [
-      "This ownership verification feature is currently experimental.",
-      "You can sign in with Patreon here, ",
-      "or link your Itch account for ownership verification.",
-      "If you have an active subscription, ",
-      "or already own the game on Itch,",
-      "you can use features such as major update auto-patching.",
+      "Tato funkce ověření vlatnictví je v současné době experimentální.",
+      "Můžete se přihlásit skrz Patreon zde, ",
+      "nebo porpojit s vaším Itch účtem for ověření vlastnictví.",
+      "Pokud máte aktivní předplatné, ",
+      "nebo již vlastníte hru na Itch,",
+      "můžete používat funkce jako automatické patchování hlavních aktualizací.",
       "",
-      "Please note:",
-      "At this time, verification is only available for players ",
-      "who bought the game on Itch or Patreon, ",
-      "or players with a paid Patreon subscription."
+      "Prosím vemte v potaz:",
+      "V tento čas, ověření je pouze možné pro hráče, ",
+      "kteří si hru koupili na Patreonu nebo na Itch ",
+      "nebe pro hráče se zaplaceným Patreon předplacením."
     ],
-    "shortHint": " Nzní lze povolit cloudové ukládání a hlavní aktualizace",
+    "shortHint": " Nyní lze povolit cloudové ukládání a hlavní aktualizace",
     "waitingLogin": "Čekání na dokončení přihlášení…",
     "notLoggedIn": "Nepřihlášen",
     "RequestingLogin": "Requesting login link...",
@@ -214,7 +214,7 @@
     "checkLatestVersion": "Kontrola nejnovější verze, počkejte prosím…",
     "isLatestVersion": "Již jste na nejnovější verzi!",
     "notSponsor": "Neověření uživatelé musí prvně odebírat!",
-    "ImoutoFavorite": "Imouto nejblíbenější",
+    "ImoutoFavorite": "Imoutin nejoblíbenější",
     "itchUser": "Itch uživatel potvrzen!",
     "nonItchUser": "Tato hra nebyla nalezena ve vaší Itch knihovně!",
     "itchVerifyNotice": "Můžete ověřit vlastnictví Itch verze tady",
