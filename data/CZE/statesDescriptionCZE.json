@@ -10,26 +10,26 @@
     "variants": {
       "0": {
         "subtitle": [
-          "\"Feeling restless...\""
+          "\"Cítíš se neklidný...\""
         ],
         "description": [
-          "Excitement Level:\\c[2]\\v[25]%\\c[0]"
+          "Vzrušení Level:\\c[2]\\v[25]%\\c[0]"
         ]
       },
       "1": {
         "subtitle": [
-          "\"The body craves a thrill...\""
+          "\"Tělo touží po vzrušení...\""
         ],
         "description": [
-          "Excitement Level:\\c[10]\\v[25]%\\c[0]"
+          "Vzrušení Level:\\c[10]\\v[25]%\\c[0]"
         ]
       },
       "2": {
         "subtitle": [
-          "\"Losing control...!\""
+          "\"Ztrácíš kontrolu...!\""
         ],
         "description": [
-          "Excitement Level:\\c[18]\\v[25]%\\c[0]"
+          "Vzrušení Level:\\c[18]\\v[25]%\\c[0]"
         ]
       }
     }
@@ -37,82 +37,82 @@
   "4": {
     "name": [],
     "subtitle": [
-      "\"Uwoooo...!\""
+      "\"Aaaaaah...!\""
     ],
     "description": [
-      "Warped into a desire-crazed Beast!  Excitement Level::\\c[18]???%\\c[0]"
+      "Přeměněn do touhou šílené zvíře!  Vzrušení Level::\\c[18]???%\\c[0]"
     ]
   },
   "5": {
     "name": [],
     "subtitle": [
-      "\"Poison has infected your body\""
+      "\"Jed se dostal do tvého tělo\""
     ],
     "description": [
-      "Takes more damage over time!"
+      "Časem dostáváš větší poškození!"
     ]
   },
   "6": {
     "name": [],
     "subtitle": [
-      "\"The bleeding won't stop\""
+      "\"Krvácení nepřestává\""
     ],
     "description": [
-      "Takes damage based on max HP!"
+      "Dostáváš větší poškození podle maximálních životů!"
     ]
   },
   "7": {
     "name": [],
     "subtitle": [
-      "\"Look, he got struck by lightning!\""
+      "\"Hele, zasáhl ho blesk!\""
     ],
     "description": [
-      "Fully paralyzed—can’t move at all!"
+      "Kompletně paralyzován, nemůže se vůbec hýbat!"
     ]
   },
   "8": {
     "name": [],
     "subtitle": [
-      "\"Hot, hot, hot, hot—!\""
+      "\"Pálí, pálí, pálí, pálí—!\""
     ],
     "description": [
-      "Applies continuous burning to all units in range!"
+      "Dává nepřetržitý efekt vzplanutí všem jednotkám v okolí!"
     ]
   },
   "9": {
     "name": [],
     "subtitle": [
-      "\"Turn into an ice pop!\""
+      "\"Změn se v ledňáka!\""
     ],
     "description": [
-      "Frozen solid!"
+      "Zmrlej na kost!"
     ]
   },
   "11": {
     "name": [],
     "subtitle": [
-      "\"Dizzy and disoriented!\""
+      "\"Zmatený a dezorientovaný!\""
     ],
     "description": [
-      "Unable to act!"
+      "Neschopen konat!"
     ]
   },
   "13": {
     "name": [],
     "subtitle": [
-      "\"Fufu, this is what you get for defying me~♥\""
+      "\"Cheche, tohle se ti stano, když mi budeš odporovat~♥\""
     ],
     "description": [
-      "Cursed by that little demon..."
+      " Jsi prokletý od té malé démonky ..."
     ]
   },
   "14": {
     "name": [],
     "subtitle": [
-      "\"It’s so hot...\""
+      "\"Je to moc žhavé...\""
     ],
     "description": [
-      "feeling weak from the heat..."
+      "cítíš se z toho žáru slabý..."
     ]
   },
   "15": {
