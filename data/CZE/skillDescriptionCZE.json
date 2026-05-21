@@ -28,9 +28,9 @@
       ""
     ],
     "description": [
-      "Rychlý úkrok na zemi pokryje krátkou vzdálenost,",
-      "který ti umožní vyhnout se některým útokům. Je to pouze začátečnická ",
-      "technika, ale uživatel trval na cool jménu."
+      "Rychlý úkrok na zemi pokryje krátkou vzdálenost",
+      "a umožní ti se vyhnout se některým útokům. Je to pouze začátečnická ",
+      "technika, ale vvývojář trval na cool jménu."
     ],
     "ability": [
       "Podrž mezerník pro aktivaci"
@@ -44,28 +44,28 @@
       ""
     ],
     "description": [
-      "Meč-tasící technika kterou ses naučil od mladého mistra meče.",
+      "Meč-tasící technika kterou ses naučil od mladého mistra šermu.",
       "Kombinací s Tisíce kroky, vyšleš rychlostí posílený ",
-      "úder — dostatečný k odražení nepřátel, když dobře načasováno."
+      "úder — dostatečný k odražení nepřátel, když ho dobře načasuješ."
     ],
     "ability": [
       "Stistkni levé tlačítko myši během Tisíce kroků: Sečný úder, poškození se škáluje s rychlostí",
-      "Drž pravé tlačítko myši během Tisíce kroků: Charge, efekt se škáluje s momentem"
+      "Drž pravé tlačítko myši během Tisíce kroků: Nabitý úder, efekt se škáluje s momentem"
     ],
     "mobileAbility": [
-      "Klikny schopnost pro sečný úder, poškození se škáluje s rychlostí",
-      "Podrž schopnost pro nabití útoku, efekt se škáluje s momentem"
+      "Klikny tlačítko schopnosti pro sečný úder, poškození se škáluje s rychlostí",
+      "Podrž tlačítko schopnosti pro nabití útoku, efekt se škáluje s momentem"
     ]
   },
   "4": {
     "name": [
-      "Whirlwind Slash"
+      "Sečné tornádo"
     ],
     "subtitle": [
       ""
     ],
     "description": [
-      "Toč se během máchání tvojí zbraní pro vyslání meustálých útoků. ",
+      "Rotuj během máchání tvojí zbraní pro vyslání neustálých útoků. ",
       "Rychlost útoku se během času zrychluje. Pro ty, kteří nejsou výborní ",
       "s technikou šermování, je tato schopnost jednoduchá na naučení a efektivní."
     ],
@@ -80,24 +80,24 @@
   },
   "6": {
     "name": [
-      "Lucky Pervert"
+      "Šťastný perverzák"
     ],
     "subtitle": [
-      "true"
+      "pravda"
     ],
     "description": [
-      "A legendary perverted constitution that activates on its own, ",
-      "even without the user realizing it.",
-      "As if blessed and guided by an unseen goddess, irresistible forces ",
-      "push you into blush-inducing, heart-pounding fanservice scenarios…!"
+      "Legendární perverzní konstituce, která se sama od sebe aktivuje, ",
+      "bez toho, aniž by o tom uživatel věděl.",
+      "Jako kdyby požehnán a doprovázen neviděnou bohyní, neodolatelné síly ",
+      "tě tlačí do tváří-rdoucích, srdce-bušících fanservice scénářů…!"
     ],
     "ability": [
-      "Always creates the perfect opportunities to trigger lewd events!"
+      "Vždy vytvoří perfektní možnosti pro spustění lechtivých scén!"
     ]
   },
   "7": {
     "name": [
-      "Danger Sense"
+      "Intuice na nebezpečí"
     ],
     "subtitle": [
       ""
@@ -116,7 +116,7 @@
   },
   "9": {
     "name": [
-      "Air king"
+      "Král větru"
     ],
     "description": [
       "Caves, cliffs, the open sky... he's fallen from just about everywhere.",
@@ -134,7 +134,7 @@
       "Breath Concealment"
     ],
     "subtitle": [
-      "true"
+      "pravda"
     ],
     "description": [
       "A ninja technique. I only picked it up in a rush, but…",
@@ -181,54 +181,54 @@
   },
   "15": {
     "name": [
-      "Crossdressing"
+      "Křížový oblíkač"
     ],
     "subtitle": [
       ""
     ],
     "description": [
-      "You put on clothes not meant for you… and something inside you ",
-      "stirred. No combat bonus—might even mess with your head a little.",
-      "Your companions glance oddly, and enemies might pause… maybe.",
-      "After all, in this world—cuteness is justice!"
+      "Nasadíš si oblečení, které nebylo zamýšleno pro tebe… a něco se v tobě ",
+      "změnilo. Žádný bojový bonus—možná i lechce poplete tvoji hlavu.",
+      "Tví mazlíčci na tebe dávají divné pohledy, a nepřátelé se možná pozastaví… ale jen možná.",
+      "Nakonec, v tomhle světe je roztomilost vše!"
     ],
     "ability": [
-      "Increases Sin based on the number of crossdressing items equipped!"
+      "Zvětšený počet hříchů podle počtu nasazených kusů oblečení určeného pro opačného pohlaví!"
     ]
   },
   "16": {
     "name": [
-      "Bladekeepers"
+      "Uchovávatelé zbraní"
     ],
     "subtitle": [
       ""
     ],
     "description": [
-      "\"No matter how you swing your weapons!\" \"We’ll rise to call you out!\"",
-      "\"To stop the blades from wearing away!\" \"To protect the dignity of arms!\"",
-      "\"For we believe the sword is master, and humans are but servants!\"",
-      "\"The most absurd yet unshakable believers!\"",
-      "\"We are—Weapon Preservationists—the Bladekeepers!\""
+      "\"nezáleží jak mácháš svojí zbraní!\" \"Povstaneme rise to call you out!\"",
+      "\"Aby jsme zastavily čepele of opotřebování se!\" \"Abysme ochránili naši čest vojska!\"",
+      "\"Protože my věříme, že meč je pán, a lidé nejsou nic jiného, než sluhové!\"",
+      "\"Ti nejvíce absurdní, ale zároveň ti nejneochvějnější věřící!\"",
+      "\"My jsme Uchovávatelé zbraní!\""
     ],
     "ability": [
-      "Wearing the badge makes you one of them now"
+      "Nošení odznáčku tě dělá jedním z nich"
     ]
   },
   "18": {
     "name": [
-      "Weapon Break"
+      "Destrukce zbraně"
     ],
     "subtitle": [
       ""
     ],
     "description": [
-      "All weapons have durability limits, ",
-      "and since the user isn’t good at precise attacks.",
-      "there’s a risk of breaking them. But when the weapon does break —",
-      "it’ll land a powerful critical hit!"
+      "Všechny zbraně mají svoje výdržní limity, ",
+      "a když hráč není dobrý s prezními útoky.",
+      "je tady velké riziko, že se rozbijí. Ale když se zbraň rozbije—",
+      "zasadí silný kritický úder!"
     ],
     "ability": [
-      "Final hit damage boost: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+      "Finální posílení poškození útoku: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
     ]
   },
   "26": {
@@ -239,13 +239,13 @@
       "pravda"
     ],
     "description": [
-      "Sought advice from a swordmaster girl on how to get stronger",
-      "All she said was ‘Just swing your sword 1,000 times every day!’",
-      "—Will that really work!? Anyway, let’s give it a try..."
+      "Žádané rady od mistrině šermu na to jak se stát silnější",
+      "Vše co řekla bylo ,Prostě máchej tvým mečem 1 000 každý den!'",
+      "—Bude to važně fungovat!? Každopádně, du tomu dát šanci…"
     ],
     "ability": [
-      "Practice Swings Completed: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-      "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+      "Cvičné švihy Dokončeny: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+      "Základní poškození zbraní na blízko zvednuto o \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
     ]
   }
 }
