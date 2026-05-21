@@ -74,7 +74,7 @@
   "UpdateComplete1": [
     "Aktalizace dokončena!",
     "Hra se automaticky restartuje po zavření tohoto okna.",
-    "Mužeš načíst hru z automatického-ukládání pro obnovení pokroku!"
+    "Mužeš hru načíst z automatického ukládání pro obnovení pokroku!"
   ],
   "UpdateComplete2": [
     "Aktualizace hry dokončena!",
@@ -99,8 +99,8 @@
     "Restartování hry pro uplatnění aktualizace!"
   ],
   "zipUpdateFail": [
-    "Neúspěšná vyjmutí a instalace aktualizace!",
-    "Prosím zkus automatickou-aktualizaci znova nebo",
+    "Neúspěšné vyjmutí a instalace aktualizace!",
+    "Prosím vyzkoušej automatickou aktualizaci znova nebo",
     "manuálně vyjmi patch soubory k instalaci!"
   ],
   "fileDownloadedSuccessfully": [
@@ -110,7 +110,7 @@
     "${} se nepodařil stáhnout! Opakování nyní!"
   ],
   "installPatch": [
-    "Patch vyžaduje vyjmutí-instalaci nyní. Akce možná způsobí sekání hry, prosím buďte trpělivý!"
+    "Patch vyžaduje vyjmutí a instalaci nyní. Akce může způsobí sekání hry, prosím o chvilku strpení!"
   ],
   "totalFilesToUpdate": [
     "Detekovány ${} soubor(y) k aktualizaci, stahování začíná!"
@@ -140,22 +140,22 @@
   ],
   "isAmdCPU": [
     "Tvůj procesor je detekován jako AMD procesor.",
-    "Některé AMD procesory mohou zažít ztráty snímků při přehrávání VP9 (WebM) videí ",
+    "Uživatelé AMD procesorů mohou zažít ztráty snímků při přehrávání VP9 (WebM) videí ",
     "v Chromium prostředí. Pokud narazíš na daný problém, vyzkoušej donutit hru",
-    "používat renderování grafickou kartou nebo si aktualizuj drivery pro odstranění problémů."
+    "používat renderování grafickou kartou nebo si aktualizuj drivery pro odstranění problému."
   ],
   "failedToLoad": [
     "Tento typ chyby může být způsoben:",
-    "① Korupcí souborů hry nebo změně názvů souborů, kvůli chybnému zakódování během extrahování/instalace.",
-    "② Vývojáři zapomínající zahrnout soubor-prosím počkej na aktualizaci, která to opraví."
+    "① Korupcí souborů hry nebo změnou názvu/ů souboru/ů, kvůli chybnému zakódování během extrahování/instalace.",
+    "② Vývojáři zapomínající zahrnout soubor hry, prosím počkej na aktualizaci, která to opraví."
   ],
   "LowResMode": [
     "Mód nízké grafiky"
   ],
   "lowResModeWarning": [
-    "Tato funkce je hlavně pro optimalizace výkonu na Android zařízeních a možná bude mít malý dopad na počítačové verzi.",
-    "Když je funkce povolená, hra rendruje mapy a obrázky v nižším rozlišení a následně je vyškáluje nahoru, ",
-    "snižuje nápor na grafickou kartu na mobilních zařízeních a snižuje zahřívání a spotřeba baterie.",
+    "Tato funkce je hlavně pro optimalizaci výkonu na Android zařízeních. Na PC bude mít nanejvýš malý dopad.",
+    "Když je funkce povolená, hra rendruje mapy a obrázky v nižším rozlišení a následně je vyškáluje, ",
+    "snižuje nápor na grafickou kartu na mobilních zařízeních a snižuje zahřívání a spotřebu baterie.",
     "Poznámka: Tato funkce je experimentální a její efektivita se může lišit zařízení od zařízení.",
     "Tuto funkci můžeš kdykoliv zakázat pro okamžité obnovení veškeré kvality obrazu."
   ],
@@ -165,7 +165,7 @@
     "za účelem ukládání herních uložených dat ve složce NLCH/save.",
     "Nahrávání uložených dat bude používáno pouze pro budoucí synchronizaci a ",
     "stahování zpět do hry a nebude používáno na žádné další účely.",
-    "Souhlasíš s udělením přístupu k vašemu Google Disku?"
+    "Souhlasíš s udělením hře přístup k vašemu Google Disku?"
   ],
   "uploadSaveFile": [
     "Stahování uložené hry z Google Disku přepíše váše současná lokální uložená data!",
