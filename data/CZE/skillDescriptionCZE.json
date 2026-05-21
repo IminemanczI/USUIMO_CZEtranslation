@@ -65,17 +65,17 @@
       ""
     ],
     "description": [
-      "Spin while swinging your weapon to launch continuous attacks. ",
-      "The attack speed increases over time. For those who aren't great ",
-      "with sword techniques, this move is easy to learn and effective."
+      "Toč se během máchání tvojí zbraní pro vyslání meustálých útoků. ",
+      "Rychlost útoku se během času zrychluje. Pro ty, kteří nejsou výborní ",
+      "s technikou šermování, je tato schopnost jednoduchá na naučení a efektivní."
     ],
     "ability": [
-      "Hold Right Click to activate the skill",
-      "Cancel during spinning to throw your weapon"
+      "Podrž pravé tlačítko myši pro aktivaci schopnosti",
+      "Přeruš točení pro hození své zbraně"
     ],
     "mobileAbility": [
-      "Hold the skill button to activate the skill",
-      "Cancel while spinning to throw your weapon"
+      "Podrž talčítko schopnosti pro aktivaci",
+      "Přeruš točení pro hození své zbraně"
     ]
   },
   "6": {
