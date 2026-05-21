@@ -1,7 +1,7 @@
 {
   "skillToggle": [
-    "Activated",
-    "Inactive"
+    "Aktivní",
+    "Neaktivní"
   ],
   "1": {
     "name": [
@@ -22,23 +22,23 @@
   },
   "2": {
     "name": [
-      "Senpo"
+      "Tisíce kroků"
     ],
     "subtitle": [
       ""
     ],
     "description": [
-      "A quick step on the ground covers a short distance,",
-      "allowing you to dodge some attacks. It’s merely a starting dash ",
-      "technique, but the user insists on giving it a cool name"
+      "Rychlý úkrok na zemi pokryje krátkou vzdálenost,",
+      "který ti umožní vyhnout se některým útokům. Je to pouze začátečnická ",
+      "technika, ale uživatel trval na cool jménu."
     ],
     "ability": [
-      "Hold Space Bar to activate"
+      "Podrž mezerník pro aktivaci"
     ]
   },
   "3": {
     "name": [
-      "Senpo Tachi"
+      "Předvoj"
     ],
     "subtitle": [
       ""
@@ -49,8 +49,8 @@
       "strike — enough to knock enemies away if timed right."
     ],
     "ability": [
-      "Left Click during Senpo: Slash, damage scales with speed",
-      "Hold Right Click during Senpo: Charge, effects scale with momentum"
+      "Stistkni levé tlačítko myši během Tisíce kroků: Slash, poškození se škáluje s rychlostí",
+      "Drž pravé tlačítko myši během Tisíce kroků: Charge, efekt se škáluje s momentem"
     ],
     "mobileAbility": [
       "Tap the skill button to slash, damage scales with movement speed",
