@@ -633,33 +633,33 @@
   },
   "45": {
     "name": [
-      "Venomous Embrace"
+      "Zhoubné objetí"
     ],
     "subtitle": [
-      "\"This dagger's loaded with deadly poison, y'know— (lick\""
+      "\"Tato dýka je naplněna smrtelným jedem, víš— (lick\""
     ],
     "description": [
-      "A poisonous magical shortsword—keep your distance"
+      "Jedovatý magický magical shortsword—keep your distance"
     ],
     "ability": [
       "Samo-Orbitující sluha",
-      "High chance to inflict Poison on contact"
+      "Vysoká šance na udělení Otrávení na dotek"
     ]
   },
   "46": {
     "name": [
-      "Fist of Fury"
+      "Pěst hněvu"
     ],
     "subtitle": [
-      "\"Left hand hits hard, right hand hits harder.\""
+      "\"Levá pěst udeřuje tvrdě, pravá ruka udeřuje tvrději.\""
     ],
     "description": [
-      "A powerful magical fist",
-      "Seething with unknown rage, it remains tightly clenched…"
+      "Silná magická pěst",
+      "Přetékající neznámým hněvem, zůstává těsně zaťatá…"
     ],
     "ability": [
       "Samo-Orbitující sluha",
-      "Knocks back any enemy it touches"
+      "Odraží zpět nepřátele, kterých se dotkne"
     ]
   },
   "47": {
@@ -668,8 +668,8 @@
     ],
     "subtitle": "",
     "description": [
-      "A severed hand imbued with undead power",
-      "Even without a body, it remains lively and aggressive"
+      "Uťatá ruka naplněná posmrtnou sílou",
+      "I bez těla, zůstává plný života a agresviní"
     ],
     "ability": [
       "Samo-Orbitující sluha",
@@ -681,15 +681,15 @@
       "Fascinující Řetězový Kontrakt"
     ],
     "subtitle": [
-      "\"When the one you love dies, you must take your own life.",
-      "When the one you love dies, there is no other way.\""
+      "\"Když ten koho milluješ zemře, musíš si vzít svůj vlastní život.",
+      "Když ten koho milluješ zemře, není jiná cesta.\""
     ],
     "description": [
-      "To save his familiar, a certain alchemist forged this contract…"
+      "Aby zachránil svého mazlíčka, jistý alchemista zpečetil tuto smlouvu…"
     ],
     "ability": [
-      "Link with your servant—any damage they take will be yours",
-      "Each linked servant grants you a healing effect"
+      "Propoj se s tvým sluhou-jakékoliv poškození, které dostanou bude tvoje",
+      "Každý propojený sluha ti dává efekt regenerace"
     ]
   },
   "49": {
@@ -697,11 +697,11 @@
       "Rudý Roh"
     ],
     "subtitle": [
-      "\"Don't you ever stop！\""
+      "\"Nikdy nezastavuj！\""
     ],
     "description": [
-      "A crimson horn filled with the Jackalope's magic",
-      "If magic could be supplied endlessly, it might keep accelerating ",
+      "Rudý roh naplněný Jackalopeho magií",
+      "Pokud může být magie  magic could be supplied endlessly, it might keep accelerating ",
       "until it became a comet streaking across the sky!"
     ],
     "ability": [
@@ -1368,13 +1368,13 @@
       ""
     ],
     "description": [
-      "The sacred space between a girl's miniskirt and thigh-high socks",
-      "Not only does it grant high magic resistance, but also the absurd ",
-      "ability to pull out all sorts of items from under the skirt at will"
+      "Posvátný prostor mezi minisukní a nadkolenkami",
+      "Ne jenom dává vysokou odolnost vůči magii, ale také absurdní ",
+      "schopnost vytáhnout všechny druhy předmětů z pod sukně podle libosti"
     ],
     "ability": [
-      "Extra carry capacity for weapons +99",
-      "Extra carry capacity for gears +99"
+      "Extra kapacita pro zbraně +99",
+      "Extra kapacita pro vybavení +99"
     ]
   },
   "300": {
