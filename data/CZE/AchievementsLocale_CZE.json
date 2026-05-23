@@ -1,76 +1,76 @@
 {
   "categories": {
     "SLG": {
-      "Category Name": "Memories with \\str[120]",
+      "Category Name": "Vzpomínky s \\str[120]",
       "New Scene Name": "",
-      "Trophy Description": "\\str[120] will always be the most important person"
+      "Trophy Description": "\\str[120] bude vždy ta nejdůležitější osoba"
     },
     "RPG": {
-      "Category Name": "Memories of Fighting in the Abyss",
+      "Category Name": "Vzpomínky z bojování v propasti",
       "New Scene Name": "",
-      "Trophy Description": "Fight... keep fighting!"
+      "Trophy Description": "Bojuj… nepřestávej bojovat fighting!"
     },
     "Gacha": {
-      "Category Name": "Memories of Various Collections",
+      "Category Name": "Vzpomínky z různých kolekcí",
       "New Scene Name": "",
-      "Trophy Description": "It is said that if you collect everything, you can summon—"
+      "Trophy Description": "Říká se, že pokud posbíráš všechno, můžes vyvolat—"
     },
     "Ryouri": {
-      "Category Name": "Memories of Cooking",
+      "Category Name": "Vzpomínky z vaření",
       "New Scene Name": "",
-      "Trophy Description": "Cooking is something that brings happiness to people"
+      "Trophy Description": "Vaření je něco, co přináší lidem radost"
     },
     "Hentai": {
-      "Category Name": "Memories of Hentai",
+      "Category Name": "Vzpomínky na Hentai",
       "New Scene Name": "",
-      "Trophy Description": "Sugar and spice~And everything nice~"
+      "Trophy Description": "Cukr a koření~A všechno příjemné~"
     }     
   },
   "achievements": {
     "WhereIsImouto": {
-      "Name": "Where Is Imouto",
-      "Description": "Must find the beloved girl—",
-      "Pop Up Desc": "\\fs[20]Where is my dear Imouto…?"     
+      "Name": "Kde je Imouto",
+      "Description": "Musím najít moji milovanou dívku—",
+      "Pop Up Desc": "\\fs[20]Kde je moje drahá Imouto…?"     
     },
     "ItsMyImouto": {
-      "Name": "It's my dear Imouto!",
-      "Description": "The beloved girl is right in front of me",
-      "Pop Up Desc": "It's my dear Imouto!"
+      "Name": "To je moje drahá Imouto!",
+      "Description": "Milovaná dívka je přímo předemnou",
+      "Pop Up Desc": "To je moje drahá Imouto!"
     },     
     "JoyStation V": {
-      "Name": "Got a Game Console!",
-      "Description": "Now you can play games with \\str[120]!",
+      "Name": "Dostal si herní konzoli!",
+      "Description": "Nyní můžes hrát hry s \\str[120]!",
       "Pop Up Desc": [
-        "\\fs[18]This may be a game, ",
-        "but it's not something you play"
+        "\\fs[18]Možná to bude hra, ",
+        "ale né něco co hraješ"
       ]
     },
     "MyImoutoIsJustThatCute": {
-      "Name": "My Little Sister Is Just That Cute!",
-      "Description": "Imouto's affection has reached its peak!",
+      "Name": "Moje malá sestřička je prostě tak Roztomilá!",
+      "Description": "Náklonost Imouto dosáhla svého vrcholu!",
       "Pop Up Desc": [
-        "\\fs[22]My Little Sister ",
-        "Is Just That Cute!"
+        "\\fs[22]Moje malá sestra ",
+        "je prostě tak Roztomilá!"
       ]
     },        
     "ImoutoBodyPillow": {
-      "Name": "Imouto Body Pillow",
-      "Description": "can now have Imouto sit on lap while gaming!",
-      "Pop Up Desc": "\\fs[20]Isn't having Imouto enough?"
+      "Name": "Imoutin lidský polštář",
+      "Description": "Nyní si můžes posadit Imouto na klín během hraní!",
+      "Pop Up Desc": "\\fs[20]Není mít Imouto dost?"
     },
     "GachaIsBadCivilization": {
-      "Name": "Gacha Is a Bad Civilization!",
-      "Description": "Spent too much money on gacha and got scolded by Imouto...",
-      "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
+      "Name": "Gacha je špatná civilizace!",
+      "Description": "Utratil moc peněz na gachi a postal si napomentu od Imouto…",
+      "Pop Up Desc": "\\fs[21]Gacha je špatná civilizace!"
     }, 
     "CanYouSendMe50K": {
-      "Name": "Can You Send Me 50K~?",
-      "Description": "Gave Imouto over 50,000 in allowance at once!",
-      "Pop Up Desc": "Can You Send Me 50K~?"
+      "Name": "Můžeš mi poslat 50K~?",
+      "Description": "Dal si Imouto přes 50,000 kapesného najdnou!",
+      "Pop Up Desc": "Můžeš mi poslat 50K~?"
     },           
     "PeopleDieIfTheyAreKilled": {
-      "Name": "People Die If They Are Killed?",
-      "Description": "Your HP drops to zero in the Abyss...",
+      "Name": "Lidé umírají když jsou zabiti?",
+      "Description": "Tvoje životy spadnou v propasti na nulu…",
       "Pop Up Desc": [
         "\\fs[22]People Die If They",
         "Are Killed?"
@@ -137,11 +137,11 @@
       "Pop Up Desc": "\\fs[18]The Sword Saint of the Sticks"
     },
     "ItWasToMeasureMyCapacity": {
-      "Name": "It Was to Measure My Capacity",
-      "Description": "Acquired the skills of the ninja",
+      "Name": "Bylo to por změření mé kapacity",
+      "Description": "Získat schopnosti nindži",
       "Pop Up Desc": [
-        "\\fs[22]\"IT WAS TO MEASURE MY ",
-        "CAPACITY.\""
+        "\\fs[22]\"BYLO PRO ZMĚŘENÍ MÉ ",
+        "KAPACITY.\""
       ]
     },     
     "DonotYouEverStop": {
@@ -150,47 +150,47 @@
       "Pop Up Desc": "Don't you ever stop!"
     },   
     "YouAreBeingSummoned": {
-      "Name": "You're Being Summoned, ◉▽◉!",
-      "Description": "Ancient creature discovered!",
-      "Pop Up Desc": "\\fs[18]You're Being Summoned, ◉▽◉!"
+      "Name": "Jsi vyvoláván, ◉▽◉!",
+      "Description": "Starověké stvořeí objeveno!",
+      "Pop Up Desc": "\\fs[18]Jsi vyvoláván, ◉▽◉!"
     },     
     "YouTooCanBecomeLight": {
-      "Name": "You too can become light!",
-      "Description": "Aki's curse flared up",
-      "Pop Up Desc": "\\fs[20]You too can become light!"
+      "Name": "Také se můžes stát světlem!",
+      "Description": "Akiino prokletí flared up",
+      "Pop Up Desc": "\\fs[20]Také se můžes stát světlem!"
     },
     "ObtainWornPanties": {
-      "Name": "Unworn Panties Have No Value!",
-      "Description": "received panties from Imouto~!",
-      "Pop Up Desc": "\\fs[18]Unworn Panties Have No Value!"
+      "Name": "Nenošené kalhotky nemají cenu!",
+      "Description": "dostal si od Imouto kalhotky~!",
+      "Pop Up Desc": "\\fs[18]Nenošené kalhotky nemají cenu!"
     },
     "ErogameWithImouto": {
-      "Name": "Hopeless Siscon",
-      "Description": "In Imouto room, using Imouto's computer to doing indecent things to Imouto",
-      "Pop Up Desc": "Play games with Imouto?"
+      "Name": "Beznadějný Siscon",
+      "Description": "V místnosti Imouto, používáš její počítač k dělaní nemravných věcí Imouto",
+      "Pop Up Desc": "Hrej hry s Imouto?"
     },             
     "Milkeddry": {
-      "Name": "Milked Dry...",
-      "Description": "There's... not a single drop left...",
+      "Name": "Vyždímán do sucha…",
+      "Description": "Nezbyla.. jediná kapka…",
       "Pop Up Desc": [
-        "\\fs[22]\"There's... ",
-        "not a single drop left...\""
+        "\\fs[22]\"Nezbyla… ",
+        "jediná kapka…\""
       ]
     },
     "StairwayToAdulthoodI": {
-      "Name": "Stairway To Adulthood♥",
-      "Description": "Make Imouto read lewd doujinshi",
-      "Pop Up Desc": "Stairway To Adulthood♥"
+      "Name": "Schody k dospělosti♥",
+      "Description": "Donuť Imouto přečíst obscéní doujinshi",
+      "Pop Up Desc": "Schody k dospělosti♥"
     },
     "StairwayToAdulthoodII": {
-      "Name": "Stairway To Adulthood♥♥",
-      "Description": "Get Imouto to use sexy toys",
-      "Pop Up Desc": "\\fs[22]Stairway To Adulthood♥♥"
+      "Name": "Schody k dospělosti♥♥",
+      "Description": "Dostaň Imouto k používání sexuálních hraček",
+      "Pop Up Desc": "\\fs[22]Schody k dospělosti♥♥"
     },
     "StairwayToAdulthoodIII": {
-      "Name": "Stairway To Adulthood♥♥♥",
-      "Description": "Teach Imouto the joys of sex",
-      "Pop Up Desc": "\\fs[20]Stairway To Adulthood♥♥♥"
+      "Name": "Schody k dospělosti♥♥♥",
+      "Description": "Nauč Imouto radosti sexu",
+      "Pop Up Desc": "\\fs[20]Schody k dospělosti♥♥♥"
     }        
   }
 }
