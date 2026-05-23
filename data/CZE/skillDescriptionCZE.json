@@ -103,15 +103,15 @@
       ""
     ],
     "description": [
-      "Often called ‘Mind's Eye’, but it's actually a sense ",
-      "sharpened by countless brushes with death.",
-      "In other words, more like a trauma reflex than an actual skill..."
+      "Často nazýváno ‘Oko mysli’, ale vlastně to dává smysl ",
+      "ostřená nezpočet setkání se smrtí.",
+      "V jiných slovech, spíše reflex než opravdová schopnost..."
     ],
     "ability": [
-      "Hover the mouse over the target to view detailed info"
+      "Přenášej myš přes cíl pro zobrazení detailních informací"
     ],
     "mobileAbility": [
-      "Tap the target to view detailed info"
+      "Klikni na cíl pro zobrazení detailnějších informací"
     ]
   },
   "9": {
@@ -119,43 +119,43 @@
       "Král větru"
     ],
     "description": [
-      "Caves, cliffs, the open sky... he's fallen from just about everywhere.",
-      "Even after being battered to the brink of death again and again, ",
-      "he always somehow manages to cling to his last breath.",
-      "One day, this man will cast off gravity itself and truly conquer the sky...!"
+      "Jeskyně, útesy, otevřené nebe... on spadl praktivcky odevšaď.",
+      "I po tom, co byl umlácen na pokraj smrti znova a znova, ",
+      "pokaždé se nějak udžel svého posledního dechu.",
+      "Jednoho dne, tento muž vypne gravitaci samu a doopravdy i dobyje nebe samotné...!"
     ],
     "ability": [
-      "When fatal fall damage is taken, forcibly survive with 1 HP",
-      "Can trigger at most once per day"
+      "Když dostaneš smrtelné poškození pádem, nasílu přežiješ s 1 HP",
+      "Může být aktivováno nanejvíc jendou denně"
     ]
   },
   "10": {
     "name": [
-      "Breath Concealment"
+      "Zatajení dechu"
     ],
     "subtitle": [
       "pravda"
     ],
     "description": [
-      "A ninja technique. I only picked it up in a rush, but…",
-      "somehow, I got the hang of it pretty quickly."
+      "Technika nindžů. Tohle jsem pochytil ve spěchu, ale…",
+      "nějak se mi povedlo docela rychle."
     ],
     "ability": [
-      "Press Shift while active to enter stealth",
-      "Reduces the monster's detection range by \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
-      "Reduces \\str[120]’s alert increase rate during peeking by \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+      "Zmáčkni Shift , aby si se začal plížit",
+      "Snižuje jejich oblast detekování o \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+      "Snižuje \\str[120] zvýší míru ostražitosti během vykukování o \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
     ]
   },
   "11": {
     "name": [
-      "Backstab"
+      "Úder zezadu"
     ],
     "subtitle": [
-      "true"
+      "pravda"
     ],
     "description": [
-      "A ninja technique. Can be activated while in stealth",
-      "Strike an unguarded enemy from behind for massive damage!"
+      "Technika nindžů. Může být aktivována při plížení",
+      "Udeř ni netušícího nepřítele zezadu pro masivní poškození!"
     ],
     "ability": [
       "Úroveň schoposti: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
@@ -170,13 +170,13 @@
       ""
     ],
     "description": [
-      "A secret finisher inherited from ASABA, who embraced sorrow",
-      "In an instant too fast for the eye to see, a hundred strikes land—",
-      "leaving the enemy with nothing but final darkness!"
+      "Tajný ukončovák zděděný po ASABA, kteří příjmají smutek",
+      "V momentu moc rychle aby to oko zachytilo,přistane stovky úderů—",
+      "ponechávajíc nepřátele s ničím byť prázdnotou!"
     ],
     "ability": [
-      "Skill command:  \\{⬆⬇⬅⮕⬆⬇\\}",
-      "Each use of the skill consumes some HP"
+      "Příkaz chopnosti:  \\{⬆⬇⬅⮕⬆⬇\\}",
+      "Každé použití schopnosti spotřebuje nějaké HP"
     ]
   },
   "15": {
@@ -204,9 +204,9 @@
       ""
     ],
     "description": [
-      "\"nezáleží jak mácháš svojí zbraní!\" \"Povstaneme rise to call you out!\"",
-      "\"Aby jsme zastavily čepele of opotřebování se!\" \"Abysme ochránili naši čest vojska!\"",
-      "\"Protože my věříme, že meč je pán, a lidé nejsou nic jiného, než sluhové!\"",
+      "\"nezáleží jak mácháš svojí zbraní!\" \"Povstaneme aby jsme tě přivolali!\"",
+      "\"Aby jsme zastavily čepele od opotřebení!\" \"Abysme ochránili naši čest vojska!\"",
+      "\"Protože my věříme, že meč je pán, a lidsto nejní nic jiného, než jeho sluha!\"",
       "\"Ti nejvíce absurdní, ale zároveň ti nejneochvějnější věřící!\"",
       "\"My jsme Uchovávatelé zbraní!\""
     ],
@@ -216,7 +216,7 @@
   },
   "18": {
     "name": [
-      "Destrukce zbraně"
+      "Poslední úder"
     ],
     "subtitle": [
       ""
