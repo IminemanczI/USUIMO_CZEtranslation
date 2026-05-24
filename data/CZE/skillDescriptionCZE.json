@@ -11,9 +11,9 @@
       ""
     ],
     "description": [
-      "Přenosný magcký nástroj, který ti dovoluje přenášet ",
+      "Přenosný magický nástroj, který ti umožňuje přenášet ",
       "mnohem více věcí než je běžné. I přes to, ",
-      "aji magické nástroje mají svoje limity…"
+      "též magické nástroje mají svoje limity…"
     ],
     "ability": [
       "Kapacita zbraní: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
@@ -28,9 +28,9 @@
       ""
     ],
     "description": [
-      "Rychlý úkrok na zemi pokryje krátkou vzdálenost",
+      "Rychlý úskok pokryje krátkou vzdálenost",
       "a umožní ti se vyhnout se některým útokům. Je to pouze začátečnická ",
-      "technika, ale vvývojář trval na cool jménu."
+      "technika, ale vývojář trval na cool jménu."
     ],
     "ability": [
       "Podrž mezerník pro aktivaci"
@@ -46,7 +46,7 @@
     "description": [
       "Meč-tasící technika kterou ses naučil od mladého mistra šermu.",
       "Kombinací s Tisíce kroky, vyšleš rychlostí posílený ",
-      "úder — dostatečný k odražení nepřátel, když ho dobře načasuješ."
+      "úder dostatečně silný k odražení nepřátel, když ho dobře načasuješ."
     ],
     "ability": [
       "Stistkni levé tlačítko myši během Tisíce kroků: Sečný úder, poškození se škáluje s rychlostí",
@@ -65,7 +65,7 @@
       ""
     ],
     "description": [
-      "Rotuj během máchání tvojí zbraní pro vyslání neustálých útoků. ",
+      "Rotuj během máchání tvojí zbraní pro nepřetržitý útok. ",
       "Rychlost útoku se během času zrychluje. Pro ty, kteří nejsou výborní ",
       "s technikou šermování, je tato schopnost jednoduchá na naučení a efektivní."
     ],
@@ -104,7 +104,7 @@
     ],
     "description": [
       "Často nazýváno ‘Oko mysli’, ale vlastně to dává smysl ",
-      "ostřená nezpočet setkání se smrtí.",
+      "ostřen po nezpočet setkání se smrtí.",
       "V jiných slovech, spíše reflex než opravdová schopnost..."
     ],
     "ability": [
@@ -125,7 +125,7 @@
       "Jednoho dne, tento muž vypne gravitaci samu a doopravdy i dobyje nebe samotné...!"
     ],
     "ability": [
-      "Když dostaneš smrtelné poškození pádem, nasílu přežiješ s 1 HP",
+      "Když dostaneš smrtelné poškození pádem, nasílu přežiješ s 1 životem",
       "Může být aktivováno nanejvíc jendou denně"
     ]
   },
@@ -155,7 +155,7 @@
     ],
     "description": [
       "Technika nindžů. Může být aktivována při plížení",
-      "Udeř ni netušícího nepřítele zezadu pro masivní poškození!"
+      "Udeř nic netušícího nepřítele zezadu pro masivní poškození!"
     ],
     "ability": [
       "Úroveň schoposti: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
@@ -164,19 +164,19 @@
   },
   "12": {
     "name": [
-      "Musou Burst Stream"
+      "Jedinečný výbušný proud"
     ],
     "subtitle": [
       ""
     ],
     "description": [
       "Tajný ukončovák zděděný po ASABA, kteří příjmají smutek",
-      "V momentu moc rychle aby to oko zachytilo,přistane stovky úderů—",
+      "V momentu moc krátkém, aby ho oko zachytilo, přistane stovky úderů—",
       "ponechávajíc nepřátele s ničím byť prázdnotou!"
     ],
     "ability": [
       "Příkaz chopnosti:  \\{⬆⬇⬅⮕⬆⬇\\}",
-      "Každé použití schopnosti spotřebuje nějaké HP"
+      "Každé použití schopnosti spotřebuje nějaké životy"
     ]
   },
   "15": {
@@ -189,11 +189,11 @@
     "description": [
       "Nasadíš si oblečení, které nebylo zamýšleno pro tebe… a něco se v tobě ",
       "změnilo. Žádný bojový bonus—možná i lechce poplete tvoji hlavu.",
-      "Tví mazlíčci na tebe dávají divné pohledy, a nepřátelé se možná pozastaví… ale jen možná.",
+      "Tví mazlíčci na tebe hází divné pohledy, a nepřátelé se možná pozastaví… ale jen možná.",
       "Nakonec, v tomhle světe je roztomilost vše!"
     ],
     "ability": [
-      "Zvětšený počet hříchů podle počtu nasazených kusů oblečení určeného pro opačného pohlaví!"
+      "Zvýšený počet hříchů podle počtu nasazených kusů oblečení určeného pro opačného pohlaví!"
     ]
   },
   "16": {
@@ -222,8 +222,8 @@
       ""
     ],
     "description": [
-      "Všechny zbraně mají svoje výdržní limity, ",
-      "a když hráč není dobrý s prezními útoky.",
+      "Všechny zbraně mají svoje limity, ",
+      "a když hráč není dobrý s precizními útoky.",
       "je tady velké riziko, že se rozbijí. Ale když se zbraň rozbije—",
       "zasadí silný kritický úder!"
     ],
@@ -239,12 +239,12 @@
       "pravda"
     ],
     "description": [
-      "Žádané rady od mistrině šermu na to jak se stát silnější",
-      "Vše co řekla bylo ,Prostě máchej tvým mečem 1 000 každý den!'",
+      "Žádané rady od mistrině šermu na to, jak se stát silnější",
+      "Vše co řekla bylo ,Prostě švihni mečem 1000 každej den!'",
       "—Bude to važně fungovat!? Každopádně, du tomu dát šanci…"
     ],
     "ability": [
-      "Cvičné švihy Dokončeny: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+      "Provedeno cvičných švihů: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
       "Základní poškození zbraní na blízko zvednuto o \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
     ]
   }
