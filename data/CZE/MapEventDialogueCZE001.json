@@ -1,10 +1,10 @@
 {
   "possibleDrops": [
-    "Possible Drops"
+    " předměty"
   ],
   "7": {
     "objectName": [
-      "Bonfire"
+      "Ohniště"
     ],
     "sentouryoku": [
       "???"
@@ -13,12 +13,12 @@
       ""
     ],
     "1": [
-      "Found a bonfire...",
-      "now what should I do?"
+      "Našel si ohniště...",
+      "co bych měl udělat?"
     ],
     "2": [
-      "Take a rest",
-      "Do nothing"
+      "Odpočinout si",
+      "Nedělat nic"
     ]
   },
   "8": {
@@ -32,33 +32,33 @@
       "Dwelling in Adventurer's Path"
     ],
     "bossName": [
-      "The Berry Devourer"
+      "Požírač bobulí"
     ],
     "description": [
-      "A strange creature that loves eating strawberries",
-      "It has tough skin and absurd defense, but since ",
-      "it’s so focused on strawberries,  ",
-      "it lacks much urge to attack. Because of that,",
-      "passing adventurers often end up feeding it…"
+      "Zvláštní kreatura, která miluje pojídání jahod",
+      "Má pevnou kůži a nesmyslou ochranu, ale když ",
+      "je tak moc zaměřený na jahody, ",
+      "postrádá vůli útočit. Proto nechává,",
+      "procházející dobrodruhové to často nakrmí…"
     ],
     "1": [
-      "ASABA looks at me with anticipation—",
-      "Did it smell something on me...?"
+      "ASABA se na mě dívá s očekáváním—",
+      "Ucítilo to něco na mě…?"
     ],
     "2": [
       "ASABA looks at me curiously—",
-      "Did it smell something on me...?"
+      "Ucítilo to něco na mě…?"
     ],
     "3": [
       "ASABA looks at me with disgust—",
-      "Did I really upset it...?"
+      "Ucítilo to něco na mě…?"
     ],
     "4": [
-      "Should I try feeding ASABA?"
+      "Měl bych zkusit nakrmit ASABA?"
     ],
     "5": [
-      "Feed it!",
-      "Don’t want to"
+      "Nakrmit to!",
+      "Nechci"
     ],
     "6": [
       "ASABA finished the food with a blank look—",
