@@ -119,25 +119,25 @@
       ]
     },
     "BossFirstAppearance": {
-      "Name": "Rejoice at the birth of the king!",
-      "Description": "Battle a boss for the first time",
-      "Pop Up Desc": "\\fs[18]Rejoice at the birth of the king!"
+      "Name": "Raduj se při zrození krále!",
+      "Description": "Utkej se poprvé s hlavním záporákem",
+      "Pop Up Desc": "\\fs[18]Raduj se při zrození krále!"
     },           
     "UnlimitedBladeWaste": {
-      "Name": "Unlimited Blade Waste",
-      "Description": "Broke over 100 weapons",
+      "Name": "Nekonečný plýtvač čepelý",
+      "Description": "Zničil si přes 100 zbraní",
       "Pop Up Desc": [
-        "\\fs[22]\"Do you have enough ",
-        "weapons in stock?\""
+        "\\fs[22]\"Máš dost ",
+        "zbraní v zásobě?\""
       ]
     },
      "TheSwordSaintOfTheSticks": {
-      "Name": "The Sword Saint of the Sticks",
-      "Description": "The results of persistent daily sword training",
-      "Pop Up Desc": "\\fs[18]The Sword Saint of the Sticks"
+      "Name": "Mistr šermu klacku",
+      "Description": "Výsledek nepřetržitého denního tréninku",
+      "Pop Up Desc": "\\fs[18]Mistr šermu klacku"
     },
     "ItWasToMeasureMyCapacity": {
-      "Name": "Bylo to por změření mé kapacity",
+      "Name": "Bylo to pro změření mé kapacity",
       "Description": "Získat schopnosti nindži",
       "Pop Up Desc": [
         "\\fs[22]\"BYLO PRO ZMĚŘENÍ MÉ ",
