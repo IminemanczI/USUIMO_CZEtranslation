@@ -29,7 +29,7 @@
       "2333"
     ],
     "subtitle": [
-      "Dwelling in Adventurer's Path"
+      "Obydlí na cestě dobrodruha"
     ],
     "bossName": [
       "Požírač bobulí"
@@ -61,8 +61,8 @@
       "Nechci"
     ],
     "6": [
-      "ASABA finished the food with a blank look—",
-      "Maybe it didn’t like it..."
+      "ASABA snědl jídlo bez větší reakce—",
+      "Možná mu to nechutnalo..."
     ],
     "7": [
       "ASABA seems very pleased with the strawberry—",
@@ -70,49 +70,49 @@
     ],
     "8": [
       "ASABA looks at me with disgust—",
-      "Was it that bad...? The food just now..."
+      "Was it that bad...? The food just now…"
     ],
     "9": [
       ".................?!  \\w[45]",
-      "ASABA is... broken!!"
+      "ASABA je... rozbitý!!"
     ],
     "10": [
-      "ASABA is already full—"
+      "ASABA už je plný—"
     ],
     "11": [
       "………………!",
-      "now ASABA holds a grudge against me…"
+      "ASABA má teď proti mně zášť…"
     ]
   },
   "9": {
     "objectName": [
-      "\\c[116]Fish"
+      "\\c[116]Ryba"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "A fish shadow swimming underwater that quickly ",
-      "flees when it senses someone approaching.",
-      "What could be the right way to catch them...?"
+      "Stín ryby plvající pod vodou, která rychle ",
+      "uteče, když ucítí, jak se blíží.",
+      "Jaký je ten pravý způsob jak je chytit…?"
     ]
   },
   "10": {
     "objectName": [
-      "Mysterious Swordswoman"
+      "Tajemná mistrině šermu"
     ],
     "sentouryoku": [
       "?99"
     ],
     "description": [
-      "A cat eared girl from a small village, ",
-      "looking both cute and energetic.",
-      "The katana at her waist hints that ",
-      "she is far from ordinary.",
-      "She travels around seeking duels with ",
-      "strong opponents, though her flashy behavior ",
-      "always makes one worry she might attract ",
-      "some shady adults..."
+      "Dívka s kočičíma ušima z malé vesnice, ",
+      "vipadajíc zároveň roztomile a enrgicky.",
+      "Katana u jejího pasu napovídá, že ",
+      "nebude tak obyčejná jak se zdá.",
+      "Cestuje po světě a hledá silné bojovníky se, kterými ",
+      "by mohla soupeřit, i když její vyzívavé chování ",
+      "nechává jednoho zdát, zda nepřipoutává pozornsot ",
+      "nějakých pochybných dospělých…"
     ],
     "1": [
       "I’m just here to challenge myself. I’m not really ",
@@ -120,15 +120,15 @@
     ],
     "2": [
       "That thing you’re carrying is...!",
-      "Are you also a fan of yuusha-sama!?"
+      "Jsi taky fanoušek yuusha-sama!?"
     ],
     "3": [
-      "A wooden sword of such high quality",
-      "isn’t easy to come by..."
+      "Dřevěný meč takové kvality",
+      "není lehké jen tak najít..."
     ],
     "4": [
-      "Um—!",
-      "If you don’t mind..."
+      "Noo—!",
+      "Pokud by ti nevadilo..."
     ],
     "5": [
       "Would you like to spar with me?",
