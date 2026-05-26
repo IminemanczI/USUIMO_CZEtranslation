@@ -72,50 +72,50 @@
       "Name": "Lidé umírají když jsou zabiti?",
       "Description": "Tvoje životy spadnou v propasti na nulu…",
       "Pop Up Desc": [
-        "\\fs[22]People Die If They",
-        "Are Killed?"
+        "\\fs[22]Lidé umírají, když",
+        "jsou zabiti?"
       ]      
     },
     "HoardingHabit": {
-      "Name": "Hoarding Habit",
-      "Description": "Placed a large number of items into the Star Door",
+      "Name": "Zlozvyk hromadění věcí",
+      "Description": "Uložil velké množství věcí do Hvězdných dveří",
       "Pop Up Desc": [
-        "\\fs[22]I've got a disease where ",
-        "I'll die if I don't hoard"
+        "\\fs[22]Onemocněl jsem nemocý, kde ",
+        "když nebudu hromadit věci, tak zemřu."
       ]
     },
     "TransportedToIsekai": {
-      "Name": "Transported To Isekai?",
-      "Description": "Mercilessly Run Over by a Shop Truck...",
-      "Pop Up Desc": "\\fs[20]Isekai Reincarnation Magic!?"  
+      "Name": "Přesunut do jiného světa?",
+      "Description": "Nemilosrdně přejet obchodní dodávkou…",
+      "Pop Up Desc": "\\fs[20]Reinkarnační magie!?"  
     },
     "YouAreAlreadyDead": {
-      "Name": "Requiem",
-      "Description": "Declared dead by Death",
-      "Pop Up Desc": "You Are Already Dead"      
+      "Name": "Rekviem",
+      "Description": "Prokázán za mrtvého smrtkou",
+      "Pop Up Desc": "Už se dávno mrtvej"      
     },                          
     "AirKing": {
-      "Name": "Air King",
-      "Description": "You’ve already fallen so many times…",
+      "Name": "král větrů",
+      "Description": "Spadl si již tolikrát…",
       "Pop Up Desc": [
-        "\\fs[22]\"Don't you want to be ",
-        "friends with the sky!\""
+        "\\fs[22]\"Však nechceš být ",
+        "kámoš s oblohou!\""
       ]
     },
     "Shichosei": {
-      "Name": "The Death Omen Star",
-      "Description": "Defeated by ASABA with a special move",
+      "Name": "Hvězda znamení smrti",
+      "Description": "Poražen ASABA speciálním útokem",
       "Pop Up Desc": [
-        "\\fs[22]\"You Can See It…",
-        "the Death Omen Star!!\""
+        "\\fs[22]\"Už to vidíš…",
+        "Hvězdu se znamením smrti!!\""
       ]
     },      
     "ServantAndMaster": {
-      "Name": "Servants and Master",
-      "Description": "Command five Servants at the same time",
+      "Name": "Páni a sluhové",
+      "Description": "Velíš pěti sluhům najednou",
       "Pop Up Desc": [
-        "\\fs[22]\"I ask of you.",
-        "Are you our Master?\""
+        "\\fs[22]\"Ptám se tě.",
+        "Jsi náš pán?\""
       ]
     },
     "BossFirstAppearance": {
