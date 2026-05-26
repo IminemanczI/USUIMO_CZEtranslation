@@ -130,16 +130,16 @@
   },
   "10": {
     "name": [
-      "Focus Circlet"
+      "Náramek soustředění"
     ],
     "subtitle": "",
     "description": [
-      "A circlet worn by the great sage during their youth as an",
-      "adventurer. It helps focus the mind and blocks external distractions"
+      "Náramek nošený významným mágem během jeho mládí, když byl ještě",
+      "dobrodruh. Pomáhá soustředit mysl a blokuje vnější rozruchy"
     ],
     "ability": [
-      "Immune to Stun",
-      "Enhances magic power and casting scale"
+      "Imuní na omráčení",
+      "Vylepší sílu a škálu magie"
     ]
   },
   "11": {
@@ -148,13 +148,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Gloves worn by the great sage during their youth as",
-      "an adventurer. They gather mana naturally,",
-      "imbuing weapons with magical properties"
+      "Rukavice nošené významným mágem během jeho mládí, když byl ještě",
+      "dobrodruh. Přírodně sbírá manu ",
+      "a nabíjí zbraně s magickými vlastnostmi"
     ],
     "ability": [
-      "When equipped, the held weapon transforms into a magical weapon",
-      "Magical weapons' attacks deal an extra 30% magic damage"
+      "Při nasazení se držená zbraň přemění v magickou zbraň",
+      "'Magická zbraň' útok dává o 30% magického poškození více"
     ]
   },
   "12": {
@@ -169,8 +169,8 @@
       "s kočičí duší. Vybavení se těmito drápkami zvýší tvoji hbitost!"
     ],
     "ability": [
-      "Increases attack power and attack speed",
-      "Reduces fall damage by 30%"
+      "Zvýší sílu a rychlost útoku",
+      "Sníží poškození pádem o 30%"
     ]
   },
   "13": {
@@ -185,7 +185,7 @@
       "s kočičí duší. Vybavení se těmito botami zvýší tvoji hbitost!"
     ],
     "ability": [
-      "Zvýší poškození a rychlost pohybu, sníží cooldown Tisíce kroků",
+      "Zvýší poškození a rychlost pohybu, sníží časové cooldown Tisíce kroků",
       "Sníží poškození pádem o 30%"
     ]
   },
@@ -195,12 +195,12 @@
     ],
     "subtitle": "",
     "description": [
-      "A ring woven from leaves and rhizomes, emitting a herbal scent",
-      "Once a charm for travelers, it symbolizes vitality and energy"
+      "Prsten upletený z listí a oddenků, vyzařující bylinou vůni",
+      "Jendou půvabné pro dobrodruhy, symbolem životnosti a energie"
     ],
     "ability": [
-      "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
-      "Equip multiple copies to enhance the effect and gain additional bonuses"
+      "Maximální životy +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+      "Nasaď si více kopié pro vylepšení efektu a žískání bonusů"
     ]
   },
   "15": {
@@ -209,30 +209,30 @@
     ],
     "subtitle": "",
     "description": [
-      "A soft and cuddly cat plush costume — fluffy and oversized",
-      "Its roomy design wraps you up and even hides extra goodies~"
+      "Měkký a k pomazlení plyšový kostým — nadýchaný a oversized",
+      "Prostorný návrh tě zabalí a taky dokaže schovat něco navíc~"
     ],
     "ability": [
-      "Extra carry capacity for weapons +10",
-      "Extra carry capacity for gears +20"
+      "Navíc kapacita pro zbraně +10",
+      "Navíc kapacita pro vybavení +20"
     ]
   },
   "16": {
     "name": [
-      "Piercing Spike Helma"
+      "Průrazná ostnatá helma"
     ],
     "subtitle": "",
     "description": [
-      "A spiked metal armor exuding danger from every angle,",
-      "offering solid defense and automatically damaging nearby enemies"
+      "Ostanatá kovová helma křičící nebežpečí z každého úhlu,",
+      "nabýzejí pořádnou obranu a automatické počkozování okolním npřátelům"
     ],
     "ability": [
-      "Automatically damages nearby enemies"
+      "Automaticky dává poškození okolním nepřátelům"
     ]
   },
   "17": {
     "name": [
-      "Piercing Spike brnění"
+      "Průrazné ostnaté brnění"
     ],
     "subtitle": "",
     "description": [
