@@ -1,75 +1,75 @@
 {
   "father": [	              
-            "Man"
+            "Muž"
     ],
   "2": {
         "0": [
-            "A heavy, suffocating air filled the dimly lit room."
+            "Těžký, vydýchaný vzduch naplňoval lehce osvětlenou místnost."
 		],
 		"1": [
-            "\"Cough\\w[30]... cough, cough...\\w[30]\""
+            "\"chch\\w[30]... khm, chch...\\w[30]\""
         ],
         "2": [
-            "The man lay weakly on the bed,",
-            "the fabric covering him trembling with his ",
-			"shallow breaths, as if it might stop moving ",
-			"at any moment."
+            "Muž ležel slabě na posteli,",
+            "látka, která byl přikrit se třásla s jeho ",
+			"mělkými nádechy, jako kdyby se měl přestat hýbat ",
+			"v jakýkoliv moment."
         ],
         "3": [
-            "Even as a naive boy,",
-			"I instinctively sensed from that frail body ",
-			"and pale face that this was what it looked like ",
-			"when a life was about to burn out."
+            "I jako najivní kluk,",
+			"jsem cítil z jeho slabého těla a bledé tváře, ",
+			"že to bylo tak jak to vypadá ",
+			"a doopravdy byl na pokraji svého života."
         ],
         "4": [
-            "\"You’ll probably have a tough time after this...\""
+            "\"Nejspíš tě po tomhle čekají těžké časy…\""
         ],
         "5": [
-            "His voice was hoarse and weak, each word sounding ",
-			"like it drained what little life he had left,",
-			"painfully forced out of his throat."
+            "Jeho hlas byl chraplavý a slabý, každé slovo ",
+			"jakoby ubíralo na tom zbytku života co mu ještě zbýval a ",
+			"bolestivě řekl svá poslední slova."
         ],
         "6": [
-            "\"I know this isn’t something a father should say...  \\w[30]",
-			"but I still hope you can promise me—\""
+            "\"Vím, že by tohle není něco co by měl otec říkat…  \\w[30]",
+			"ale stále věřím, že mi můžeš slíbit—\""
         ],
         "7": [
             "\"…………？\""
         ],
         "8": [
-            "I stood there in a daze, ",
-			"unable to process this sudden final message, ",
-			"my mind completely blank."
+            "Stál jsem tam v omámení, ",
+			"neschopen zpracovat jeho náhlou poslední zprávu, ",
+			"zatemnilo se mi před očima."
         ],
         "9": [
-            "Ah... these were important words, ",
-			"and yet I couldn’t focus at all",
-			"I could only stare blankly at my father's face ",
-			"as the light slowly left it."
+            "Aaa… byli to důležitá slova, ",
+			"a i tak jsem se nemohl vůbec soustředit",
+			"Zmohl jsem jen slepě zírat na tátův obličej ",
+			"jak světlo pomalu opouštělo jeho oči."
         ],	
         "10": [
-            "\"…Please take care of her,  \\w[30]",
-			"from now on, treat her as your ○○—"
+            "\"…prosím, postarej se o ni, \\w[30]",
+			"od teď, starej se o ni jako o svoji ○○—"
         ],	
         "11": [
-            "His voice faded like smoke in the wind, ",
-			"too faint to finish his final words. ",
-			"He slowly turned his head toward ",
-			"a shadowed corner of the room."
+            "Jeho hlas zanikl jako kouř ve větru, ",
+			"moc slabý aby dokončil svá poslední slova. ",
+			"Pomalu otočil hlavu směrem k ",
+			"tmavému rohu místnosti."
         ],	
         "12": [
-            "That corner was shrouded in heavy shadows,",
-			"as if it concealed something of great importance."
+            "Ten roh byl zahalen v temných stínech,",
+			"jako kdyby skríval něco velice důležitého."
         ],
         "13": [
-            "This man, who was both my father and my master,",
-			"took his last breath just like that.",
-			"His eyes remained open, ",
-			"but the light of life had already left them."
+            "Tento muž, kdo byl můj otec a mistr zároveň,",
+			"právě vydechl svůj poslední dech.",
+			"Jeho oči zůstali otevené, ",
+			"ale svetlo v nich bylo už dávno pryč."
         ],
         "14": [
-            "Unconsciously, my eyes followed his gaze as well,",
-			"looking toward that mysterious corner—————"
+            "Podvědomě mé oči následovali kam se naposledy podíval,",
+			"což bylo do toho tajemného rohu—————"
         ]		
     }
 }
