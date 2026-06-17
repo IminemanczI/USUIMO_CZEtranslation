@@ -23,7 +23,7 @@
     "Hentai": {
       "Category Name": "Vzpomínky na Hentai",
       "New Scene Name": "",
-      "Trophy Description": "Cukr a koření~A všechno příjemné~"
+      "Trophy Description": "Cukr, krupice~a všechno nejhezčí~"
     }     
   },
   "achievements": {
@@ -92,10 +92,10 @@
     "YouAreAlreadyDead": {
       "Name": "Rekviem",
       "Description": "Prokázán za mrtvého smrtkou",
-      "Pop Up Desc": "Už se dávno mrtvej"      
+      "Pop Up Desc": "Už jsi dávno mrtvej"      
     },                          
     "AirKing": {
-      "Name": "král větrů",
+      "Name": "Král větrů",
       "Description": "Spadl si již tolikrát…",
       "Pop Up Desc": [
         "\\fs[22]\"Však nechceš být ",
@@ -111,7 +111,7 @@
       ]
     },      
     "ServantAndMaster": {
-      "Name": "Páni a sluhové",
+      "Name": "Pánové a sluhové",
       "Description": "Velíš pěti sluhům najednou",
       "Pop Up Desc": [
         "\\fs[22]\"Ptám se tě.",
@@ -132,9 +132,9 @@
       ]
     },
      "TheSwordSaintOfTheSticks": {
-      "Name": "Mistr šermu klacku",
+      "Name": "Světec šermu s klackem",
       "Description": "Výsledek nepřetržitého denního tréninku",
-      "Pop Up Desc": "\\fs[18]Mistr šermu klacku"
+      "Pop Up Desc": "\\fs[18]Světec šermu s klackem"
     },
     "ItWasToMeasureMyCapacity": {
       "Name": "Bylo to pro změření mé kapacity",
@@ -145,18 +145,18 @@
       ]
     },     
     "DonotYouEverStop": {
-      "Name": "Don't you ever stop!",
-      "Description": "Keep running at super high speed",
-      "Pop Up Desc": "Don't you ever stop!"
+      "Name": "Nikdy nepřestávej!",
+      "Description": "Nepřestávej bežet v super vysokých rychlostech",
+      "Pop Up Desc": "Nikdy nezastavuj!"
     },   
     "YouAreBeingSummoned": {
       "Name": "Jsi vyvoláván, ◉▽◉!",
-      "Description": "Starověké stvořeí objeveno!",
+      "Description": "Starověké stvoření objeveno!",
       "Pop Up Desc": "\\fs[18]Jsi vyvoláván, ◉▽◉!"
     },     
     "YouTooCanBecomeLight": {
       "Name": "Také se můžes stát světlem!",
-      "Description": "Akiino prokletí flared up",
+      "Description": "Akiino prokletí se projevilo",
       "Pop Up Desc": "\\fs[20]Také se můžes stát světlem!"
     },
     "ObtainWornPanties": {
