@@ -1,26 +1,26 @@
 {
   "2": {
         "0": [
-            "(...What is going on? The sunlight is so strong!?",
-			"And it really hurts when it hits my skin!!)"
+            "(...Co se děje? sluneční svit je tak silný!?",
+			"A sakra to bolí když dopadá na moji kuži!!)"
 		]
     },
   "4": {
         "0": [
-            "It's still early in the day.",
-			"Am I really going to head home now?"
+            "Je pořád moc brzo.",
+			"Vážne chci jít teď domů?"
 		],
 		"1": [
-            "There's still some time before sunset…",
-			"Am I really going to head home now?"
+            "Je pořád čas před západem slunce…",
+			"Výžne půjdu teď domů?"
         ],
         "2": [
-      		"It's extremely hot today.",
-      		"Maybe it's better to head back early...?"
+      		"Dneska je extrémní horko.",
+      		"Možná je lepší když půjdu domů dřív...?"
         ],
         "3": [
-            "Go home",
-			"Never mind"
+            "Jít domů",
+			"Tak nic"
         ]
     },
   "16": {
@@ -31,16 +31,16 @@
     },	
   "17": {
         "0": [
-            "There's also a note inside...     \\w[30]",
-			"Written on it are some words so messy they're almost unreadable—"
+            "Vevnitř je nějaký vzkaz...     \\w[30]",
+			"Něco je na něm napsané ale nejde to přečíst—"
 		],
         "1": [
-            "\\py[24]\"My youth lies buried within...\"",
+            "\\py[24]\"Moje mládí je pohřbeno uvnitř...\"",
 			"\\w[60]"
 		],
         "2": [
-            "(That feels so...",
-			"so unbearably heavy...)"
+            "(Případámi mi to...",
+			"tak neuvřitelně těžké...)"
 		]	
     }	
 }
