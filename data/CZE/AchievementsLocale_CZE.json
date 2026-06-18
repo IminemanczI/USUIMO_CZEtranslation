@@ -8,12 +8,12 @@
     "RPG": {
       "Category Name": "Vzpomínky z bojování v propasti",
       "New Scene Name": "",
-      "Trophy Description": "Bojuj… nepřestávej bojovat fighting!"
+      "Trophy Description": "Bojuj… nepřestávej bojovat!"
     },
     "Gacha": {
       "Category Name": "Vzpomínky z různých kolekcí",
       "New Scene Name": "",
-      "Trophy Description": "Říká se, že pokud posbíráš všechno, můžes vyvolat—"
+      "Trophy Description": "Říká se, že když pokud posbíráš všechno, můžes vyvolat—"
     },
     "Ryouri": {
       "Category Name": "Vzpomínky z vaření",
@@ -29,12 +29,12 @@
   "achievements": {
     "WhereIsImouto": {
       "Name": "Kde je Imouto",
-      "Description": "Musím najít moji milovanou dívku—",
+      "Description": "Musím najít moji milovanou Imouto—",
       "Pop Up Desc": "\\fs[20]Kde je moje drahá Imouto…?"     
     },
     "ItsMyImouto": {
       "Name": "To je moje drahá Imouto!",
-      "Description": "Milovaná dívka je přímo předemnou",
+      "Description": "Milovaná Imouto je přímo předemnou",
       "Pop Up Desc": "To je moje drahá Imouto!"
     },     
     "JoyStation V": {
@@ -60,7 +60,7 @@
     },
     "GachaIsBadCivilization": {
       "Name": "Gacha je špatná civilizace!",
-      "Description": "Utratil moc peněz na gachi a postal si napomentu od Imouto…",
+      "Description": "Utratil moc peněz na gachi a dostal si napomentu od Imouto…",
       "Pop Up Desc": "\\fs[21]Gacha je špatná civilizace!"
     }, 
     "CanYouSendMe50K": {
@@ -80,7 +80,7 @@
       "Name": "Zlozvyk hromadění věcí",
       "Description": "Uložil velké množství věcí do Hvězdných dveří",
       "Pop Up Desc": [
-        "\\fs[22]Onemocněl jsem nemocý, kde ",
+        "\\fs[22]Onemocněl jsem chorobou, kde ",
         "když nebudu hromadit věci, tak zemřu."
       ]
     },
@@ -95,7 +95,7 @@
       "Pop Up Desc": "Už jsi dávno mrtvej"      
     },                          
     "AirKing": {
-      "Name": "Král větrů",
+      "Name": "Král aera",
       "Description": "Spadl si již tolikrát…",
       "Pop Up Desc": [
         "\\fs[22]\"Však nechceš být ",
