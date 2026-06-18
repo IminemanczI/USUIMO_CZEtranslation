@@ -21,7 +21,7 @@
           "\"Tělo touží po vzrušení...\""
         ],
         "description": [
-          "Vzrušení Level:\\c[10]\\v[25]%\\c[0]"
+          "Level vzrušení:\\c[10]\\v[25]%\\c[0]"
         ]
       },
       "2": {
@@ -118,25 +118,25 @@
   "15": {
     "name": [],
     "subtitle": [
-      "\"In the eyes of monsters, you’re just a pitiful, ugly little preemie…\""
+      "\"V očích mosnter, jsi jen  just a ubohý, ošklivý potrat...\""
     ],
     "description": [
-      "Disguised as a monster – monsters won’t actively attack you!"
+      "Převlečen za monstrum – mosntra na tebe nebudou aktivně útočit!"
     ]
   },
   "16": {
     "name": [],
     "subtitle": [
-      "\"You can’t even play such a simple game? What a ZAKO~\""
+      "\"Neumíš hraát ani jednoduchou hru jako tuhle? Takovej ZAKO~\""
     ],
     "description": [
-      "Certified as a ZAKO for cheating!"
+      "Certifikovaný jako ZAKO za podvádění!"
     ]
   },
   "28": {
     "name": [],
     "subtitle": [
-      "Gaming \\str[120]"
+      "Hrající \\str[120]"
     ],
     "description": [
       ""
@@ -144,14 +144,14 @@
     "variants": {
       "0": {
         "description": [
-          "She’s really focused on the game, ",
-          "Best not to bother her too much..."
+          "Hodně se soutředí na hur, ",
+          "lepší bude ji moc neotravovat..."
         ]
       },
       "1": {
         "description": [
-          "She’s still playing...",
-          "Should I tease her a bit?"
+          "Pořád hraje...",
+          "Možná bych ji mohl trochu poškádlit?"
         ]
       }
     }
@@ -159,7 +159,7 @@
   "29": {
     "name": [],
     "subtitle": [
-      "Bathing \\str[120]"
+      "Koupající se \\str[120]"
     ],
     "description": [
       ""
@@ -167,14 +167,14 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120]’s in the bath— I can",
-          "vaguely make out her silhouette"
+          "\\str[120] je ve vaně— Dokážu",
+          "matně rozeznat její siluetu"
         ]
       },
       "1": {
         "description": [
-          "\\str[120] is drying her hair ",
-          "with a towel"
+          "\\str[120] si suší vlasy ",
+          "ručníkem"
         ]
       }
     }
@@ -182,7 +182,7 @@
   "30": {
     "name": [],
     "subtitle": [
-      "Resting \\str[120]"
+      "Odpočívající \\str[120]"
     ],
     "description": [
       ""
@@ -190,38 +190,38 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120] looks very happy,",
-          "Anything interesting happen?"
+          "\\str[120] vypadá dost šťastně,",
+          "Stalo se něco zajímavého?"
         ]
       },
       "1": {
         "description": [
-          "\\str[120] is getting cuter",
-          "Maybe give her a pats!"
+          "\\str[120] se stává roztomilejší",
+          "Skus jí pohladit po hlavě!"
         ]
       },
       "2": {
         "description": [
-          "\\str[120] is just sitting",
-          "there. Try talking to her…"
+          "\\str[120] tam tak sedí",
+          "Zkus k ní promluvit..."
         ]
       },
       "3": {
         "description": [
-          "\\str[120] looks a bit sad",
-          "Maybe try comforting her?"
+          "\\str[120] vypadá trochu smutně",
+          "Možná ji zkus uklidnit?"
         ]
       },
       "4": {
         "description": [
-          "\\str[120] seems a bit off",
-          "Wonder what could be done…"
+          "\\str[120] vypadá trochu mimo a bit off",
+          "Zajímámě, co jsem mohl udělat jinak...--"
         ]
       },
       "5": {
         "description": [
-          "\\str[120] looks sleepy",
-          "Maybe it's time for bed?"
+          "\\str[120] vypadá ospale",
+          "Možná je čas jít spát?"
         ]
       }
     }
@@ -229,7 +229,7 @@
   "31": {
     "name": [],
     "subtitle": [
-      "Sleeping \\str[120]"
+      "Spící \\str[120]"
     ],
     "description": [
       ""
@@ -237,44 +237,44 @@
     "variants": {
       "0": {
         "description": [
-          "Asleep like a plant…",
-          "unable to be roused…"
+          "Spí jako rostlinka...",
+          "neschopná se vzbudit..."
         ]
       },
       "1": {
         "description": [
-          "Deep asleep…",
-          "It seems hard to wake her"
+          "Hluboký spánek..",
+          "Vypadá to, že ji bude těžký vzbudit"
         ]
       },
       "2": {
         "description": [
-          "Sleeping soundly,",
-          "completely immersed in her dreams…"
+          "Spí tvrdě,",
+          "kompletně ponořena v jejich snech..."
         ]
       },
       "3": {
         "description": [
-          "Her eyelashes twitch",
-          "as if murmuring in a dream"
+          "Její řasy se škubly",
+          "jako kdyby mrmlala něco ve snu"
         ]
       },
       "4": {
         "description": [
-          "She seems half-awake",
-          "murmuring unintentionally"
+          "Vypadá napůl vzhůru",
+          "a neúmyslně mrmlá"
         ]
       },
       "5": {
         "description": [
-          "\\str[120] is almost awake",
-          "but her senses are still hazy"
+          "\\str[120] je skoro vzhůru",
+          "ale její smysly jsou pořád moc zamlžené"
         ]
       },
       "6": {
         "description": [
-          "Defenseless in sleep, lost in ",
-          "last night's blissful exhaustion"
+          "Bezbranná ve spánku, ztracená v ",
+          "slastiplného vyčerpání z minulé noci"
         ]
       }
     }
@@ -282,7 +282,7 @@
   "32": {
     "name": [],
     "subtitle": [
-      "Hungry \\str[120]"
+      "Hladová \\str[120]"
     ],
     "description": [
       ""
@@ -290,20 +290,20 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120] is quietly waiting ",
-          "for dinner"
+          "\\str[120] tiše čeká",
+          "na večeři"
         ]
       },
       "1": {
         "description": [
-          "\\str[120] seems a bit worried",
-          "about the dinner taste…"
+          "\\str[120] vypadá lehce v obavách",
+          "o chuťi večeře..."
         ]
       },
       "2": {
         "description": [
-          "\\str[120] looks like ",
-          "she wants to help"
+          "\\str[120] vypadá ",
+          "že chce pomoc"
         ]
       }
     }
@@ -311,7 +311,7 @@
   "33": {
     "name": [],
     "subtitle": [
-      "Relaxing \\str[120]"
+      "Relaxuje \\str[120]"
     ],
     "description": [
       ""
@@ -319,8 +319,8 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120]’s licking her popsicle…",
-          "looks way too defenseless..."
+          "\\str[120] líže svoje lízátko...",
+          "vypadá až moc bezbraně..."
         ]
       }
     }
@@ -328,7 +328,7 @@
   "34": {
     "name": [],
     "subtitle": [
-      "Brushing \\str[120]"
+      "Čistí \\str[120]"
     ],
     "description": [
       ""
@@ -336,8 +336,8 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120]’s lazily brushing her teeth",
-          "still looking half-asleep..."
+          "\\str[120] líně si čistí zuby",
+          "stále v polospánku..."
         ]
       }
     }
@@ -346,21 +346,21 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦(Feels like body is ",
-      "becoming so light...)"
+      "✦(Připadámi jakoby její tělo ",
+      "začínalo být lehčí...)"
     ]
   },
   "36": {
     "name": [],
     "subtitle": [],
     "description": [
-      "✦mind begins to loosen up—"
+      "✦mysl začíná begins to loosen up—"
     ]
   },
   "40": {
     "name": [],
     "subtitle": [
-      "Crying \\str[120]"
+      "Brečí \\str[120]"
     ],
     "description": [
       ""
@@ -368,7 +368,7 @@
     "variants": {
       "0": {
         "description": [
-          "\\c[10]She ate too much spicy food..."
+          "\\c[10] Snědla až moc pálivého jídla..."
         ]
       }
     }
@@ -377,14 +377,14 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦Satisfied after eating,",
-      "\\str[120] feels happy!"
+      "✦Spokojená poté co se najedla,",
+      "\\str[120] se cítí šťastně!"
     ]
   },
   "42": {
     "name": [],
     "subtitle": [
-      "\\str[120] watching TV"
+      "\\str[120] sleduje TV"
     ],
     "description": [
       ""
@@ -392,14 +392,14 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120] curls up like a kitten, ",
-          "sneaking glances at me."
+          "\\str[120] se skoulela do klubíčka jako koťátko, ",
+          "plíží na mě pohledy at me."
         ]
       },
       "1": {
         "description": [
-          "She pressed close to mine, ",
-          "like holding a warm pillow."
+          "Přitiskla se blízko ke mně, ",
+          "jako držet teplý polštář."
         ]
       }
     }
@@ -407,7 +407,7 @@
   "43": {
     "name": [],
     "subtitle": [
-      "Frightened \\str[120]"
+      "Vystrašená \\str[120]"
     ],
     "description": [
       ""
@@ -415,14 +415,14 @@
     "variants": {
       "0": {
         "description": [
-          "\\str[120] clung tightly to me,",
-          "her body trembling slightly…"
+          "\\str[120] byla ke mně těsně přitisknutá,",
+          "její tělo se lehce třáslo..."
         ]
       },
       "1": {
         "description": [
-          "Our bodies were completely entwined, ",
-          "exchanging warmth with each other…"
+          "Naše těla kompletně propletena, ",
+          "vyměňujíc teplo mezi sebou..."
         ]
       }
     }
@@ -431,98 +431,98 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦Not so much 'Joy'... ",
-      "as she's in a total 'HIGH' now!"
+      "✦Néní tak moc v 'Radosti'... ",
+      "jako spíš v absolutní 'EUFÓRII'!"
     ]
   },
   "45": {
     "name": [],
     "subtitle": [
-      "\"I promised my dear sister, so I have to keep it\""
+      "\"Slíbil jsem to me drahé sestřičce, takže to musím dodržet\""
     ],
     "description": [
-      "Don’t go home badly injured…"
+      "Nepřijdi domů težce zraněn..."
     ]
   },
   "46": {
     "name": [],
     "subtitle": [
-      "\"I promised my dear sister, so I have to keep it\""
+      "\"Slíbil jsem to mé drahé sestřičce, takže to musím dodržet\""
     ],
     "description": [
-      "Cook a meat dish"
+      "Uvař jídlo s masem"
     ]
   },
   "54": {
     "name": [],
     "subtitle": [
-      "\"rustle... rustle...\""
+      "\"šust... šust...\""
     ],
     "description": [
-      "You are being closely watched by a group of small creatures..."
+      "Jsi pozorně sledován skupinkou malých kreatur..."
     ]
   },
   "55": {
     "name": [],
     "subtitle": [
-      "\"This is my domain, so no mischief allowed~♥\""
+      "\"Thole je moje doména, takže žádný nepořádek~♥\""
     ],
     "description": [
-      "Attack prohibited! Nearby monsters are filled with fear!"
+      "Útok zakázán! Monstra v okolí jsou plná strachu!"
     ]
   },
   "57": {
     "name": [],
     "subtitle": [
-      "\"I feel like I can do anything right now\""
+      "\"Připadám si teď, jako bych zvládnul cokoliv\""
     ],
     "description": [
-      "Kenja Mode activated, all stats increased"
+      "Kenja Mód aktivován, věechny vlastnosti zvýšeny"
     ]
   },
   "58": {
     "name": [],
     "subtitle": [
-      "\"Ate something bad...\""
+      "\"Snědl jsi něco špatného...\""
     ],
     "description": [
-      "Stomachache won't stop!"
+      "Bolest břicha nepřestává!"
     ]
   },
   "59": {
     "name": [],
     "subtitle": [],
     "description": [
-      "...Forgot something important? Maybe it’ll come back later."
+      "...Zapomněl jsi něco důležitého? Možná si vzpomeneš později."
     ]
   },
   "60": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Giving off a constant stench..."
+      "Vydáváš neustálý smrad..."
     ]
   },
   "61": {
     "name": [],
     "subtitle": [
-      "\"My ass is on fire...\""
+      "\"Hoří ti zadek...\""
     ],
     "description": [
-      "Can't run or dash due to butt pain!"
+      "Nemužeš běhat nebo uhýbat kvůli bolesti zadku!"
     ]
   },
   "62": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Focuses for the next strike, movement speed reduced"
+      "Soustředíš se na další útok, rychlost pohybu snížena"
     ]
   },
   "63": {
     "name": [],
     "subtitle": [
-      "\"Triple speed of True Red\""
+      "\"Trojnásobek rychlosti Rudé Komety\""
     ],
     "description": [
       ""
@@ -532,115 +532,115 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "Senpo on cooldown!"
+      "Senpo na cooldownu!"
     ]
   },
   "65": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Feeling dizzy..."
+      "Točí se ti halva..."
     ]
   },
   "67": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Floating on the water. Movement slowed, can’t attack!"
+      "Levituješ na vodě. Pohyb spomalen, nemůžeš útočit!"
     ]
   },
   "68": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Chanting a spell!"
+      "Sesílání kouzla!"
     ]
   },
   "71": {
     "name": [],
     "subtitle": [
-      "\"Ate something delicious—warm and cozy inside~\""
+      "\"Snědl něco výborného—teplé a příjemné uvnitř~\""
     ],
     "description": [
-      "Recovers a small amount of health every second"
+      "Obnovuješ trochu životů každou sekundu"
     ]
   },
   "72": {
     "name": [],
     "subtitle": [
-      "\"Power... surging through me!\""
+      "\"Síla... proudí skzre mě!\""
     ],
     "description": [
-      "Attack power\\c[10]+50%\\c[0]"
+      "Síla útoku\\c[10]+50%\\c[0]"
     ]
   },
   "73": {
     "name": [],
     "subtitle": [
-      "\"I'm starting to understand everything\""
+      "\"Začínám všemu rozumět\""
     ],
     "description": [
-      "Magic attack power\\c[10]+50%\\c[0]"
+      "Síla magického útoku\\c[10]+50%\\c[0]"
     ]
   },
   "74": {
     "name": [],
     "subtitle": [
-      "\"Can you keep up... with my SPEED?!\""
+      "\"Stíháš pořád... s mojí RYCHLOSTÍ?!\""
     ],
     "description": [
-      "Movement speed increases"
+      "Rychlost pohybu zvýšena"
     ]
   },
   "75": {
     "name": [],
     "subtitle": [
-      "\"Divine Weapon Descent\""
+      "\"Zhmotnění božské zbraně\""
     ],
     "description": [
-      "Weapon Gigantify, Damage Boost!"
+      "Gigantifikace zbraně, navýšení poškození!"
     ]
   },
   "76": {
     "name": [],
     "subtitle": [
-      "\"Ohohohohoho~ Ohhhhhh~~~~~\""
+      "\"Ohohohohoho~ Oooooo~~~~~\""
     ],
     "description": [
-      "Sensitivity Up! Damage taken is doubled!"
+      "Citlivost zvýšena! Poškození zdvojnásobeno!"
     ]
   },
   "77": {
     "name": [],
     "subtitle": [
-      "\"Flame of Rebirth\""
+      "\"Oheň znovuzrození\""
     ],
     "description": [
-      "Allows one revival while the effect is active"
+      "Umožňuje jedno oživění, kduž je efekt aktivní"
     ]
   },
   "78": {
     "name": [],
     "subtitle": [
-      "\"Twist of Fate...\""
+      "\"Zvrat osudu...\""
     ],
     "description": [
-      "Blessed by fate—good things are more likely to happen!"
+      "Požehnán osudem—je větší šance, že se stanou dobré věci!"
     ]
   },
   "79": {
     "name": [],
     "subtitle": [
-      "\"Twist of Fate...\""
+      "\"Zvrat osudu...\""
     ],
     "description": [
-      "Blessed by fate—sad things are more likely to happen!"
+      "Požehnán osudem—je větší šance, že se stanou smutné věci!"
     ]
   },
   "80": {
     "name": [],
     "subtitle": [
-      "\"Triple speed of True Red\""
+      "\"Trojnásobek rychlosti Rudé Komety\""
     ],
     "description": [
       ""
@@ -649,19 +649,19 @@
   "83": {
     "name": [],
     "subtitle": [
-      "\"That look in his eyes just got sharp all of a sudden...!\""
+      "\"Ten pohled v jeho očích, najednou zostřil...!\""
     ],
     "description": [
-      "Physical attacks gain Penetration, ignoring a portion of the target's defense"
+      "Fyzické útoky získávají penetraci, ignorují část obrany cíle"
     ]
   },  
   "85": {
     "name": [],
     "subtitle": [
-      "\"But it really tastes awful...\""
+      "\"Ale chutná to odporně...\""
     ],
     "description": [
-      "Overflowing with vitality—max HP increased!"
+      "Překypuješ životností—maximální HP zvýšeny!"
     ]
   },
   "86": {
@@ -670,130 +670,130 @@
       "\"SKILL ISSUE\""
     ],
     "description": [
-      "You’ve been mercilessly taunted! Defense and luck greatly decreased!"
+      "Byl jsi bes nelítostně vyprovokován! Obrana a štestí sníženo!"
     ]
   },
   "90": {
     "name": [],
     "subtitle": [
-      "「Don’t face-check the bush, you fool!?」"
+      "「Nekontroluj křoví z blízka, ty blázne!?」"
     ],
     "description": [
-      "Being in the bush feels safe… HP auto-regenerates"
+      "Být v křoví zní bezpečně... automatická regenerace HP"
     ]
   },
   "98": {
     "name": [],
     "subtitle": [
-      "\"It feels like my sister is right beside me...\""
+      "\"Připadá mi jakoby byla moje sestra vedle mě...\""
     ],
     "description": [
-      "Regenerating HP!"
+      "Regeneruješ HP!"
     ]
   },
   "99": {
     "name": [],
     "subtitle": [
-      "\"We are the guardians!\""
+      "\"My jsme Ochránci!\""
     ],
     "description": [
-      "Attack power +30"
+      "Síla útoku +30"
     ]
   },
   "101": {
     "name": [],
     "subtitle": [
-      "\"LOOK INTO MY EVIL EYEZ SEE SOMETHIN' INSIDE!\""
+      "\"PODÍVEJ SE MI DO MÝCH ZLÍCH OČÍ A POZŘI CO JE VNICH!\""
     ],
     "description": [
-      "Briefly turns invisible every \\v[221] seconds!"
+      "Dočasně neviditelný na \\v[221] sekund!"
     ]
   },
   "104": {
     "name": [],
     "subtitle": [
-      "\"You radiate glory!\""
+      "\"Záříš ve proslulosti!\""
     ],
     "description": [
-      "All attributes increase, temporary invincibility"
+      "Všechny atributy zvýšeny, dočasná nesmrtelnost"
     ]
   },
   "105": {
     "name": [],
     "subtitle": [
-      "\"Share this blessing with thee\""
+      "\"Sdílej své požehnání s tebou\""
     ],
     "description": [
-      "doubling money earned"
+      "Dvojnásobek na sbírání peněz"
     ]
   },
   "106": {
     "name": [],
     "subtitle": [
-      "\"I... I can't lift it...\""
+      "\"Já... Já to neuzvednu...\""
     ],
     "description": [
-      "Not enough strength to use the weapon fully!"
+      "Nedostatek síly pro plné užití zbraně!"
     ]
   },
   "107": {
     "name": [],
     "subtitle": [
-      "\"We are the guardians!\""
+      "\"My jsme Ochránci!\""
     ],
     "description": [
-      "Movement speed increased!"
+      "Rychlost pohybu zvýšena!"
     ]
   },
   "108": {
     "name": [],
     "subtitle": [
-      "\"We are the guardians!\""
+      "\"My jsme Ochránci!\""
     ],
     "description": [
-      "Attack and defense increased!"
+      "Útok a obrana zvýšena!"
     ]
   },
   "109": {
     "name": [],
     "subtitle": [
-      "\"We are the guardians!\""
+      "\"My jsme Ochránci!\""
     ],
     "description": [
-      "Defense increased!"
+      "Obrana zvýšena!"
     ]
   },
   "110": {
     "name": [],
     "subtitle": [
-      "\"We are the guardians!\""
+      "\"My jsme Ochránci!\""
     ],
     "description": [
-      "Max HP and defense increased!"
+      "MAximální HP a obrana zvýšena!"
     ]
   },
   "115": {
     "name": [],
     "subtitle": [
-      "\"The immortal scarecrow's heart, yet decay is fate\""
+      "\"Srdce nesmrtelného strašáka, přesto rozklad je osud\""
     ],
     "description": [
-      "No HP recovery!"
+      "Žádná obnova HP!"
     ]
   },
   "116": {
     "name": [],
     "subtitle": [
-      "\"Endless greed has found you—\""
+      "\"Nekonečná chamtivost si tě našla—\""
     ],
     "description": [
-      "Drop held money when taking damage!"
+      "Upusť všechny peníze při získání poškoení!"
     ]
   },
   "117": {
     "name": [],
     "subtitle": [
-      "\"Thus shall you gain the world's glory, and all darkness shall flee\""
+      "\"Tak nabydeš slávy světa a všechna temnota bude prchat\""
     ],
     "description": [
       ""
@@ -802,19 +802,19 @@
   "122": {
     "name": [],
     "subtitle": [
-      "\"Heh heh I'll survive, I swear it\""
+      "\"Heh heh Přežiju, Přísahám\""
     ],
     "description": [
-      "Permanently restores HP automatically"
+      "Pernamentně se ti sami obnovují HP"
     ]
   },
   "123": {
     "name": [],
     "subtitle": [
-      "\"One who pursues prey must be prepared to become prey themselves.\""
+      "\"Ten kdo pronásleduje kořist musí být připraven se kořistí stát.\""
     ],
     "description": [
-      "All Hunter series equipment has been enhanced!"
+      "Všechno vybavení z Myslivecké série bylo zdokonaleno!"
     ]
   }
 }
