@@ -46,11 +46,11 @@
       "Ucítilo to něco na mě…?"
     ],
     "2": [
-      "ASABA looks at me curiously—",
-      "Ucítilo to něco na mě…?"
+      "ASABA se na mě se zvědavostí díva—",
+      "Ucítilo to na mě něco…?"
     ],
     "3": [
-      "ASABA looks at me with disgust—",
+      "ASABA se na mě znechuceně dívá—",
       "Ucítilo to něco na mě…?"
     ],
     "4": [
@@ -92,8 +92,8 @@
       "1"
     ],
     "description": [
-      "Stín ryby plvající pod vodou, která rychle ",
-      "uteče, když ucítí, jak se blíží.",
+      "Stín ryby plavající pod vodou, která rychle ",
+      "uteče, když ucítí, jak se blížíš.",
       "Jaký je ten pravý způsob jak je chytit…?"
     ]
   },
@@ -106,12 +106,12 @@
     ],
     "description": [
       "Dívka s kočičíma ušima z malé vesnice, ",
-      "vipadajíc zároveň roztomile a enrgicky.",
+      "vypadajíc zároveň roztomile a enrgicky.",
       "Katana u jejího pasu napovídá, že ",
       "nebude tak obyčejná jak se zdá.",
-      "Cestuje po světě a hledá silné bojovníky se, kterými ",
+      "Cestuje po světě a hledá silné bojovníky, se kterými ",
       "by mohla soupeřit, i když její vyzívavé chování ",
-      "nechává jednoho zdát, zda nepřipoutává pozornsot ",
+      "nechává jednoho zdát, zda nepřipoutává pozornost ",
       "nějakých pochybných dospělých…"
     ],
     "1": [
