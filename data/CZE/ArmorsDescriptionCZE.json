@@ -224,7 +224,7 @@
     "subtitle": "",
     "description": [
       "Ostanatá kovová helma křičící nebežpečí z každého úhlu,",
-      "nabýzejí pořádnou obranu a automatické počkozování okolním npřátelům"
+      "nabízejíc pořádnou ochranu a automaticky poškozuje okolní nepřátele"
     ],
     "ability": [
       "Automaticky dává poškození okolním nepřátelům"
@@ -236,37 +236,37 @@
     ],
     "subtitle": "",
     "description": [
-      "A spiked metal armor exuding danger from every angle,",
-      "offering solid defense and automatically damaging nearby enemies"
+      "Ostnaté kovové brnění křičící nebezpečí z každého úhlu,",
+      "nabízejíc pořádnou ochranu a automaticky poškozuje okolní nepřátele"
     ],
     "ability": [
-      "Automatically damages nearby enemies"
+      "Automaticky dává poškození okolním nepřátelům"
     ]
   },
   "18": {
     "name": [
-      "Piercing Spike Ruakvice"
+      "Průrazné ostnaté rukavice"
     ],
     "subtitle": "",
     "description": [
-      "A spiked metal armor exuding danger from every angle,",
-      "offering solid defense and automatically damaging nearby enemies"
+      "Ostnaté kovové rukavice křičící nebezpečí z každého úhlu,",
+      "nabízejíc pořádnou ochranu a automaticky poškozuje okolní nepřátele"
     ],
     "ability": [
-      "Automatically damages nearby enemies when attacking"
+      "Automaticky dává poškození okolním nepřátelům při útočení"
     ]
   },
   "19": {
     "name": [
-      "Piercing Spike Boty"
+      "Průrazné ostnaté boty"
     ],
     "subtitle": "",
     "description": [
-      "A spiked metal armor exuding danger from every angle,",
-      "offering solid defense and automatically damaging nearby enemies"
+      "Ostnaté kovové boty křičící nebezpečí z každého úhlu,",
+      "nabízejíc pořádnou ochranu a automaticky poškozuje okolní nepřátele"
     ],
     "ability": [
-      "Automatically damages nearby enemies when moving"
+      "Automaticky dává poškození okolním nepřátelům při pohybu"
     ]
   },
   "20": {
@@ -275,11 +275,11 @@
     ],
     "subtitle": "",
     "description": [
-      "The standard armor of court knights. Its ornate and sturdy design",
-      "symbolizes their adherence to the chivalric code"
+      "Běžná helma dvorních ritířů. Její ornamenty a pevný design",
+      "symbolizuje jejich oddanost k rytířskému kodexu"
     ],
     "ability": [
-      "Increases defense when HP is below \\c[10]30%\\c[0]"
+      "Zvyšuje obranu, když jsou HP pod \\c[10]30%\\c[0]"
     ]
   },
   "21": {
@@ -288,11 +288,11 @@
     ],
     "subtitle": "",
     "description": [
-      "The standard armor of court knights. Its ornate and sturdy design",
-      "symbolizes their adherence to the chivalric code"
+      "Běžné brnení dvorních ritířů. Jeho ornamenty a pevný design",
+      "symbolizuje jejich oddanost k rytířskému kodexu"
     ],
     "ability": [
-      "Increases defense when HP is below \\c[10]30%\\c[0]"
+      "Zvyšuje obranu, když jsou HP pod \\c[10]30%\\c[0]"
     ]
   },
   "22": {
@@ -301,11 +301,11 @@
     ],
     "subtitle": "",
     "description": [
-      "The standard armor of court knights. Its ornate and sturdy design",
-      "symbolizes their adherence to the chivalric code"
+      "Běžné rukavice dvorních ritířů. Jejich ornamenty a pevný design",
+      "symbolizuje jejich oddanost k rytířskému kodexu"
     ],
     "ability": [
-      "Increases attack and defense when HP is below \\c[10]30%\\c[0]"
+      "Zvyšuje útok a obranu, když jsou HP pod \\c[10]30%\\c[0]"
     ]
   },
   "23": {
@@ -315,10 +315,10 @@
     "subtitle": "",
     "description": [
       "The standard armor of court knights. Its ornate and sturdy design",
-      "symbolizes their adherence to the chivalric code"
+      "symbolizuje jejich oddanost k rytířskému kodexu"
     ],
     "ability": [
-      "Increases movement speed when HP is below \\c[10]30%\\c[0]"
+      "Zvyšuje rychlost pohybu, když jsou HP pod \\c[10]30%\\c[0]"
     ]
   },
   "24": {
@@ -327,12 +327,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Stitched from thick hide and tough linen, it was once the everyday ",
-      "gear of forest hunters. Though defense is limited, it's light and ",
-      "flexible, letting the wearer move quickly through the woods"
+      "Upletený z tlusté kůže a pevného lenu, jednou býval každodení ",
+      "výbavou myslivců. Obrana je omezená, je lehký a ",
+      "pružný umožnujíc rychlejší pohyb srze lesy"
     ],
     "ability": [
-      "Slowly regenerates HP when standing on grassy terrain"
+      "Pomalu obnovuje HP, když stojíš na travnatém terénu"
     ]
   },
   "25": {
@@ -341,13 +341,13 @@
     ],
     "subtitle": "",
     "description": [
-      "Crafted from sturdy leather and adorned with durable buckles",
-      "and pouches. Once essential for forest hunters on their journeys, ",
-      "it remains light and unburdensome even during long treks"
+      "Vyroben z pevné kůže a vyzdobený odolnými přezkami",
+      "kapsami. Jendou nezbytnou výbavou pro myslivce na jejich cestách, ",
+      "zůstává lehké a nazátěžné i během dlouhých cest"
     ],
     "ability": [
-      "Max HP +20, movement speed increased",
-      "Extra carry capacity for weapons +5, for gear +5"
+      "Maximální HP +20, rychlost pohybu zvýšena",
+      "Extra kapacita pro zbraně +5 a pro vybavení +5"
     ]
   },
   "26": {
@@ -358,13 +358,13 @@
       ""
     ],
     "description": [
-      "A Firebird feather.",
-      "symbolizing eternal life, still burning with a warm flame.",
-      "Even a single feather holds the power to revive the dead."
+      "Pero ohnivého ptáka.",
+      "symbolizující věčný život, stále hořící teplým plamenem.",
+      "I jediné pero drží sílu oživit mrtvé."
     ],
     "ability": [
-      "Activates when HP drops to zero, fully restores HP",
-      "The item is destroyed after activation"
+      "Aktivuje se když HP spadnou na nulu, plně doplní HP",
+      "Předmět je po použítí zničen"
     ]
   },
   "27": {
@@ -373,12 +373,12 @@
     ],
     "subtitle": "",
     "description": [
-      "A Toilet Paper take from Home",
-      "A handy item for adventurers who suddenly need",
-      "a toilet break in a dangerous dungeon"
+      "Role toaleťáku z domu",
+      "Nápomocný předmět pro dobrodruhy v nouzi",
+      "záchodové pauzy v nebezpečné hrobce"
     ],
     "ability": [
-      "Reduces Bleed damage taken by \\c[10]30%\\c[0]"
+      "Snižuje poškození udělené krvácením o \\c[10]30%\\c[0]"
     ]
   },
   "28": {
@@ -389,28 +389,28 @@
       ""
     ],
     "description": [
-      "A massive arm brimming with the brute strength of the Oni clan",
-      "It symbolizes a power so fierce it can easily crush solid rock",
-      "For humans, it is a force far too difficult to control"
+      "Masivní ruka arm přetékající surovou silou démonského klanu",
+      "Symbolizuje sílu tak bouřlivou, že jednoduše rozdrtí i kus skály",
+      "Pro lidi je taková síla prostě nekontrolovatelná"
     ],
     "ability": [
-      "Physical attack power +100%. Attack speed decreases",
-      "Weapons are more likely to break during attacks"
+      "Síla fyzických útoků +100%. Zpomalení rychlosti útoku",
+      "Zbraně jsou více náchylné k rozbití během útoku"
     ]
   },
   "29": {
     "name": [
-      "Saucy Jacky"
+      "Krvavý Jack"
     ],
     "subtitle": [
-      "\"This one craves screams...\""
+      "\"Tento touží po křiku...\""
     ],
     "description": [
-      "One of the deadly weapons of a notorious killer,",
-      "still twitching with anticipation"
+      "Jedna z nejsmrtelnějších zbraní nesmírně známého vraha,",
+      "stále chvějící se očekáváním"
     ],
     "ability": [
-      "Deals more damage to lower HP foes, up to \\c[10]30%\\c[0]"
+      "Uděluje větší poškození nepřátelům s méně HP, až do \\c[10]30%\\c[0]"
     ]
   },
   "30": {
