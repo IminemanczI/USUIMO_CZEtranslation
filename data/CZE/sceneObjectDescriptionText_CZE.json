@@ -35,8 +35,8 @@
   ],
   "6": [
     "✦Vzal jsi nějakou uschlou větev břízy na ",
-    "tvé cestě domů, myslel sis, že vypadá cool, ",
-    "tak jsem to ukázal \\str[120].",
+    "tvé cestě domů, myslel sis, že vypadá nádherně, ",
+    "tak jsi to ukázal \\str[120].",
     "Tiše to dala do vázy."
   ],
   "7": [
@@ -50,30 +50,30 @@
     "abys cítil ten slabý vánek.  "
   ],
   "9": [
-    "✦A state-of-the-art hairdryer with ",
-    "incredibly strong airflow.",
-    "If you aim it at your face, it feels",
-    "like the wind might peel your skin off."
+    "✦Nejmodernější fén s ",
+    "neuvěřitelně silným proudem vzduchu.",
+    "Pokud si ho namíříš na obličej, připadá ti",
+    "jako by ti vítr měl odtrhnout kůži z obličeje."
   ],
   "10": [
-    "✦A bathtub with adjustable temperature ",
-    "settings, but with a range of 99°C to -10°C...",
-    "Is that really okay?  "
+    "✦Vana s upravitelnou teplotou vody ",
+    "od -10°C do 99°C...",
+    "Je to vážně bezpečný?  "
   ],
   "11": [
-    "✦A fruit-scented shampoo that \\str[120] loves.",
-    "It makes her hair super silky, ",
-    "but it runs out way too fast.",
-    "Current Remaining:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+    "✦Šampón s ovocnou vůní, který \\str[120] miluje.",
+    "Dělá to její vlasy hedvábně hladké, ",
+    "ale dochází tak rychle.",
+    "Současně zbývá: \\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
   ],
   "12": [
-    "✦It looks like the underwear ",
-    "\\str[120] just took off...",
-    "It's neatly folded."
+    "✦Vypadá to jako spodní prádlo, ",
+    "které si \\str[120] právě sundala...",
+    "Je úhledně poskládané."
   ],
   "13": [
-    "✦A legendary game console that’s now extremely rare.",
-    "Owning one would make you a legend among gamers.  "
+    "✦Legendární herní konzole, která je nyní extrémně vzácná.",
+    "Vlastnění jedné z nich by tě děělalo legendou mezi hráči.  "
   ],
   "14": [
     "✦Panenka darovaná \\str[120] od táty ",
