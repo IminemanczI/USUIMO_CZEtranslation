@@ -1,117 +1,117 @@
 {
   "1": {
     "0": [
-      "Mmm, I can't seem to fall asleep..."
+      "Mmm, Nejde mi spát..."
     ],
     "1": [
-      "My stomach hurts... Is it indigestion?",
-      "Maybe that dinner was too much after all..."
+      "Bolí mě břicho... Jsou to zažívací potíže?",
+      "Možná ta večeře byla moc..."
     ],
     "2": [
-      "Ah, I suddenly woke up...!"
+      "Aa, Najendou jsem se vzbudil...!"
     ],
     "3": [
-      "It's still the middle of the night.",
-      "I can sleep a bit more...\\w[30].\\w[30].\\w[30].",
-      "Should I go check on \\str[120]?"
+      "Pořád je dost času na spaní.",
+      "Jdu si ještě trochu přispat...\\w[30].\\w[30].\\w[30].",
+      "Měl bych jít zkontrolovat \\str[120]?"
     ],
     "4": [
-      "To \\str[120]'s Room",
-      "Go to sleep"
+      "Do \\str[120] místnosti",
+      "Jít spát"
     ],
     "5": [
-      "Just gonna sleep till morning...?"
+      "Půjdu jen tak spát do rána...?"
     ],
     "6": [
-      "Sleep",
-      "Hold on"
+      "Spát",
+      "Vyčkat"
     ],
     "7": [
-      "\"Ahhhhhhhhhhh—!!?\""
+      "\"Aaaaahhhhh—!!?\""
     ],
     "8": [
-      "W-What? Oh, it was just a nightmare..."
+      "C-Co? Ou, byla to jen noční můra..."
     ],
     "9": [
-      "That scared me so bad... ",
-      "I think I saw a really terrifying version of \\str[120]."
+      "Tak moc mě to vyděsilo... ",
+      "Myslel jsem si, že vydím vaýně děsivou verzi \\str[120]."
     ],
     "10": [
-      "…I should go check on \\str[120].",
-      "What if that dream—"
+      "…Měl bych jít zkontrolovat \\str[120].",
+      "Co když ten sen—"
     ],
     "11": [
-      "Yeah, that dream was so scary...",
-      "It’s better to get some rest early..."
+      "Yeah, ten sen byl tak hrůzostrašný...",
+      "Radši půdju spát drív..."
     ]
   },
   "2": {
     "0": [
-      "\\c[10]—Data update request detected from version \\str[1].  \\w[60]",
-      "Would you like to perform the auto-update now?"
+      "\\c[10]—Detekována žádost o aktualizaci dat z verze \\str[1].  \\w[60]",
+      "Chtěli byste prověst automatickou aktualizaci právě teď?"
     ],
     "1": [
-      "Start Update",
-      "Never mind"
+      "Začít aktualizaci",
+      "Někdy jindy"
     ],
     "2": [
-      "...Is it morning already? ",
-      "I feel like I had some kind of dream about ",
+      "...To už je ráno? ",
+      "Připadá mi, jako bych měl nějaký sen o ",
       "\\str[120], ",
-      "but I can’t remember it..."
+      "ale němůžu si vzpomenout..."
     ],
     "3": [
-      "...Is it already morning? ",
-      "I don't feel like I slept well..."
+      "...To už je ráno? ",
+      "Nevyspal jsem se moc dobře..."
     ],
     "4": [
-      "Ah, is it morning already? I slept so well."
+      "Ah, to už je ráno? Spalo se mi tak dobře."
     ],
     "5": [
-      "It's a nice day today...\\w[45]huh? ",
-      "Feels like the sunlight’s a bit too intense?"
+      "Dneska je nádherně...\\w[45]huh? ",
+      "Ale připadá mi, že slunce peče nějak moc?"
     ],
     "6": [
-      "It's a nice day today."
+      "Dneska je nádherně."
     ],
     "7": [
-      "The weather doesn't look so great today."
+      "Dneska nění uplně nejhezčí počasí."
     ],
     "8": [
-      "Is it raining? ",
-      "I hope it won't affect our adventure..."
+      "To prší? ",
+      "Doufám, že to neovlivní naše dobrodružství..."
     ],
     "9": [
-      "Haven’t checked on \\str[120] for a few days… ",
-      "Guess I should drop by today."
+      "Pár dní jsem nezkontroloval \\str[120]... ",
+      "Asi bych se měl dneska stavit."
     ],
     "10": [
-      "Alright, I'm up. What’s the plan for today—"
+      "Oukej, jsem vzhůru. Co je dneska na plánu—"
     ],
     "11": [
-      "To \\str[120]'s Room",
-      "Head Out Now",
-      "Rest at Home"
+      "Jít do \\str[120] pokoje",
+      "Vyjít na doobrodružství hned",
+      "Odpočívat doma"
     ],
     "12": [
-      "Okay, let’s check on \\str[120]!"
+      "Okej, jdu zkotrolovat\\str[120]!"
     ],
     "13": [
-      "Okay, time to get everything in order ",
-      "and head out for an adventure!"
+      "Okej, čas dát všechno do pořádku ",
+      "a vydat se na dobrodružství!"
     ],
     "14": [
-      "Hmm... anyway, the weather isn't looking so great today.",
-      "At times like this, staying home and spending time with \\str[120] ",
-      "is definitely more interesting..."
+      "Hmm... každopádně, počasí dnes nevypadá úplně nejlíp.",
+      "V takové dny je lepší zůstat doma a trávit čas s \\str[120] ",
+      "je definitivně více zajímavé..."
     ],
     "15": [
-      "Haa... I feel so lazy today, ",
-      "I can't find an ounce of motivation.",
-      "It shouldn't be a big deal to slack off with a ",
-      "clear conscience every once in a while, right?",
-      "Compared to the trivial matters outside, ",
-      "staying at home with \\str[120] is much more fun."
+      "Haa... Nechce si mi vůbec nic dělat, ",
+      "nedokažu najít ani špetku motivace.",
+      "Neměl by to být problém, když se budu ",
+      "jendou za čas vědomě flákat, že?",
+      "S porovnáním s primitivníma všcma venku, ",
+      "je zůstání doma s \\str[120] mnohem větší zábava."
     ]
   },
 
@@ -355,35 +355,35 @@
       "swell to its peak at this very moment—"
     ],
     "47": [
-      "\"Rawr—! The Dragon is on the move!\""
+      "\"Rawr—! Drak je v pohybu!\""
     ],
     "48": [
-      "\\nl< >\"Hahahaha... it tickles!",
-      "\\str[121]... stop it!",
-      "Not there... ha, haha!\""
+      "\\nl< >\"Hahahaha... to lechtá!",
+      "\\str[121]... přestaň!",
+      "Ne, tam nee... ha, haha!\""
     ],
     "49": [
-      "...Today will surely be another peaceful and tranquil day.",
-      "I kept licking the side of her neck and ear, ",
-      "which had grown hot from her blushing.",
+      "...Dnes určitě bude další mírumilovný a klidný den.",
+      "Stále jsem lízal kraj jejího krku a ucha, ",
+      "který se ohřál z červenání.",
       "\\w[30]",
-      "Listening to her lovely laughter, ",
-      "I prayed from the bottom of my heart that ",
-      "this life could last forever..."
+      "Poslouchat její rozkošný smích, ",
+      "Mdolil jsem se ze dna svého srdce ",
+      "aby takhle zůstal život navždy..."
     ]
   },
   "4": {
     "0": [
-      "\"...Huh!?\\w[60]...Wait, \\w[60]",
-      "is it already morning...?\""
+      "\"...Huh!?\\w[60]...Počkat, \\w[60]",
+      "to už je ráno...?\""
     ],
     "1": [
-      "My head feels dizzy... ",
-      "Did I just fall asleep like that last night...?"
+      "Ugh, Točí se mi halva... ",
+      "Prostš jsem jen tak včera usnul...?"
     ],
     "2": [
-      "\"I can't remember what happened last night...  \\w[90]",
-      "Oh well, I was probably just too exhausted.\""
+      "\"Nemůžu si vzpomenout co se poslední noc dělo...  \\w[90]",
+      "Hmmm, asi jsem byl jen moc unavenej.\""
     ]
   }
 }
