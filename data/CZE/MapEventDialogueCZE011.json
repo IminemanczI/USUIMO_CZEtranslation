@@ -198,114 +198,114 @@
 			"možná jsem si na to zvyknul, ale tentokrát jsem neomdlel."
         ],
 		"8": [
-            "\\nl< >\"How is it, \\str[121]? Does it taste good?\""
+            "\\nl< >\"Jaký to je, \\str[121]? Chutná to dobře?\""
         ],
 		"9": [
-            "\"The taste, umm, it's kind of————\""
+            "\"Ta chuť, mmm, je taková————\""
         ],
 		"10": [
-            "A wave of heat suddenly surged from my stomach!",
-			"All my fatigue was blown away!"
+            "Najenou, náhlá vlna telpa stoupá z mého žaludku!",
+			"Všechna moje únava zmizela!"
         ],
 		"11": [
-            "\"…Huh? It actually feels kinda good?\""
+            "\"...Co? Doopravdy to chutná docela dobře?\""
         ],	
 		"12": [
-            "\\nl< >\"Yay, looks like my training paid off!\""
+            "\\nl< >\"Hurá, vypadá, že můj trénink se vyplatilo!\""
         ],	
 		"13": [
-            "What kind of training did she even do?",
-			"I was curious, but couldn't bring myself to ask…"
+            "Jaký trénink vůbec dělala?",
+			"Byl jsem zdědav, ale nemohl jsem se přinutit se zeptat..."
         ]
     },
   "21": {
         "0": [
-            "I don't have a recipe to follow right now… ",
-			"should I just make something myself?"		
+            "Nemám recept, podle kterého bych mohl teď vařit... ",
+			"mněl bych něco udělat sám?"		
 		],
 		"1": [
-            "Let \\str[120] cook",
-			"Do it myself"
+            "Nechat \\str[120] vařit",
+			"Uvařit sám"
         ],
 		"2": [
-            "\\nl< >\"I'm sorry,\\str[121]...       \\w[60]",
-			"I'm still in training, let me handle it next time!\""
+            "\\nl< >\"promiň,\\str[121]...       \\w[60]",
+			"Pořád se učím, nech mě vařit přístě!\""
         ],
 		"3": [
-            "…Looks like \\str[120] is trying her best ",
-			"to learn how to cook.",
-			"Oh well, I guess I’ll have to make dinner."
+            "...Vypadá, že \\str[120] se snaží ze všech sil, ",
+			"aby se naučila co vařit.",
+			"No, vypadá, že budu muset udělat večeři já."
         ],
 		"4": [
             "\\nl< >\\{\"\\str[121]!",
-			"do you want to eat the food I make!?\""
+			"chceš sníst jídlo co jsem uvařila!?\""
         ],
 		"5": [
-            "\\nl< >\"Oh my, I really can’t say no to you~\""
+            "\\nl< >\"Ó můj, vážně ti nedokážu říct ne~\""
         ],
 		"6": [
-            "\\nl< >\"Leave it to me! ",
-			"I’m confident I can make something really tasty!\""
+            "\\nl< >\"Nech to na mně! ",
+			"Věřím, že dokážu udělat něco vážně dobrého!\""
         ],
 		"7": [
-            "Leave it to me!"
+            "Nech to na mně!"
         ],	
 		"8": [
-            "I’ll handle dinner tonight!"
+            "Dnešní večeři vařím já!"
         ]			
     },
   "22": {
         "0": [
-            "\\nl< >\\{\"Nnnnn……!\\w[250] Heave-ho……!  \\w[210]"	,
-			"Hmm hmm……!\"    \\w[210]\\^"
+            "\\nl< >\\{\"Nnnnn......!\\w[250] Hej-rup......!  \\w[210]"	,
+			"Hmm hmm......!\"    \\w[210]\\^"
 		],
 		"1": [
             "\\nl< >\"Haa…\\w[120] haa…\\w[180] \\str[121]……   \\w[60]",
-			"you're so heavy……!\""
+			"seš tak těžkej......!\""
         ],
 		"2": [
-            "With full determination, ",
-			"\\str[120] dragged my completely limp body to the dining table…"
+            "Plná odhodlání, ",
+			"\\str[120] odtáhla moje nehybné tělo k jídelnímu stolu..."
         ],
 		"3": [
-            "\\nl< >\"Now just wait here for a bit, \\str[121]. ",
-			"I'll be right back.\""
+            "\\nl< >\"Teď tady jen chviličku počkej, \\str[121]. ",
+			"Hned budu zpátky.\""
         ],
 		"4": [
-            "Food made by \\str[120] herself… how should I put it, ",
-			"I'm kinda looking forward to it……",
-			"But come to think of it, has she ever cooked before…?"
+            "Jídlo od \\str[120] samotné... jak bych to měl říct, ",
+			"Docela se na to těším......",
+			"Ale teď když nad tím přemýšlím, vařila už někdy předtím...?"
         ],
 		"5": [
-            "\\nl< >\"Here, \\str[121]!    \\w[60]",
+            "\\nl< >\"Tady, \\str[121]!    \\w[60]",
 			"Aaah————\""
         ],
 		"6": [
-            "Staring at this unidentifiable object in front of me,",
-			"my whole body started trembling uncontrollably."
+            "Dívajíc se na tu neidentifikovatelnou věc předemnou,",
+			"moje celé tělo se začalo nekontrolovatelně třást."
         ],
 		"7": [
-            "\"Um, dear \\str[120]……    \\w[60]",
-			"\\str[121] still has enough strength to feed himself, you know?   \\w[150]",
-			"If you just take off these bandages……\"    \\w[20]\\^"
+            "\"Um, drahá \\str[120]……    \\w[60]",
+			"\\str[121] má stále dost síly na to aby se najedl, víš?   \\w[150]",
+			"Pokud mi jenom sundáš ty bandaže......\"    \\w[20]\\^"
         ],
 		"8": [
-            "\\nl< >\"No way! ",
-			"You're injured right now, \\str[121],",
-			"you need proper rest!\""
+            "\\nl< >\"Ani náhodou! ",
+			"Právě teď jseš zraněnej, \\str[121],",
+			"musíš si pořádně odpočinout!\""
         ],
 		"9": [
-            "\\nl< >\"Or maybe… ",
-			"my first attempt at cooking really isn't that good……?   \\w[120]",
-			"In that case, let me taste it first…\""
+            "\\nl< >\"Nebo možná... ",
+			"můj první pokus ve vaření vážně není tak dobrý, co...?   \\w[120]",
+			"V tom připadě mě to nech ochutnat jako první...\""
         ],
 		"10": [
             "\\{  \"Můžu to vyzkoušet! Prosím!\""
         ],
 		"11": [
             "Předtím, než \\str[120]stihla zareagovat,",
-			"Rychle jsem jsem přdklonila ",
-			"zakousl se do lžíce co držela."
+			"Rychle jsem se přdklonil a ",
+			"snědl co měla na lžící, kterou držela."
         ],
 		"12": [
             "\"Mm… žvýk žvýk žvýk—    \\w[60] ",
