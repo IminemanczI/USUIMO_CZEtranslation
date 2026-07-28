@@ -13,7 +13,7 @@
     "description": [
       "Přenosný magický nástroj, který ti umožňuje přenášet ",
       "mnohem více věcí než je běžné. I přes to, ",
-      "též magické nástroje mají svoje limity…"
+      "magické nástroje taky mají svoje limity…"
     ],
     "ability": [
       "Kapacita zbraní: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
@@ -28,7 +28,7 @@
       ""
     ],
     "description": [
-      "Rychlý úskok pokryje krátkou vzdálenost",
+      "Rychlý úskok, který pokryje krátkou vzdálenost",
       "a umožní ti se vyhnout se některým útokům. Je to pouze začátečnická ",
       "technika, ale vývojář trval na cool jménu."
     ],
@@ -120,9 +120,9 @@
     ],
     "description": [
       "Jeskyně, útesy, otevřené nebe... on spadl prakticky odevšaď.",
-      "I po tom, co byl umlácen na pokraj smrti znova a znova, ",
+      "I po tom, co byl dostán na pokraj smrti znova a znova, ",
       "pokaždé se nějak udžel svého posledního dechu.",
-      "Jednoho dne, tento muž vypne gravitaci samu a doopravdy dobyje nebe samotné...!"
+      "Jednoho dne, tento muž vypne gravitaci samu a doopravdy dobyje i nebe samotné...!"
     ],
     "ability": [
       "Když dostaneš smrtelné poškození pádem, nasílu přežiješ s 1 životem",
@@ -138,7 +138,7 @@
     ],
     "description": [
       "Technika nindžů. Tohle jsem pochytil ve spěchu, ale…",
-      "nějak se mi povedlo docela rychle."
+      "nějak se mi to povedlo docela rychle."
     ],
     "ability": [
       "Zmáčkni Shift , aby si se začal plížit",
