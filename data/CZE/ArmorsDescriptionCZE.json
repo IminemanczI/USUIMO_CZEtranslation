@@ -102,30 +102,30 @@
   },
   "8": {
     "name": [
-      "Mana Crystal Cluster"
+      "Shluk mana krystalů"
     ],
     "subtitle": "",
     "description": [
-      "A mineral shaped by the Great Labyrinth, containing trace mana",
-      "Carrying it enhances magical understanding"
+      "Minerál tvarovaný Ohromným Labyrintem, obsahující stopy many",
+      "Nošení vylepšuje pochopení magie"
     ],
     "ability": [
-      "Equipping it boosts casting speed and magic power",
-      "Magical weapons' attacks deal an extra 5% magic damage"
+      "Vybavení zrychluje rychlost vyvolávácí rychlosti a magické síly",
+      "Magické zbraně dávají extra 5% magického poškození"
     ]
   },
   "9": {
     "name": [
-      "Abyssal Mana Cluster"
+      "Hlubinný shluk mana krystalů"
     ],
     "subtitle": "",
     "description": [
-      "A rare cluster infused with dense mana,",
-      "radiating palpable magical waves. Highly sought after by alchemists"
+      "Vzácný shluk prodchnutý hustou manou,",
+      "vyzařující hmatatelnými magickými vlnami. Vysoce žádané alchemisti"
     ],
     "ability": [
-      "Equipping it boosts casting speed and magic power",
-      "Magical weapons' attacks deal an extra 10% magic damage"
+      "Vybavení zrychluje rychlost vyvolávácí rychlosti a magické síly",
+      "Magické zbraně dávají extra 10% magického poškození"
     ]
   },
   "10": {
