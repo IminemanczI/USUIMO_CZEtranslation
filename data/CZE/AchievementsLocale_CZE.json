@@ -8,12 +8,12 @@
     "RPG": {
       "Category Name": "Vzpomínky z bojování v propasti",
       "New Scene Name": "",
-      "Trophy Description": "Bojuj… nikdy nepřestávej bojovat!"
+      "Trophy Description": "Bojuj... nikdy nepřestávej bojovat!"
     },
     "Gacha": {
       "Category Name": "Vzpomínky z různých kolekcí",
       "New Scene Name": "",
-      "Trophy Description": "Říká se, že když pokud posbíráš všechno, můžes vyvolat—"
+      "Trophy Description": "Říká se, že když posbíráš všechno, můžes vyvolat—"
     },
     "Ryouri": {
       "Category Name": "Vzpomínky z vaření",
@@ -30,63 +30,73 @@
     "WhereIsImouto": {
       "Name": "Kde je Imouto",
       "Description": "Musím najít moji milovanou Imouto—",
-      "Pop Up Desc": "\\fs[20]Kde je moje drahá Imouto…?"     
+      "Pop Up Desc": "\\fs[20]Kde je moje drahá Imouto...?"     
     },
     "ItsMyImouto": {
       "Name": "To je moje drahá Imouto!",
-      "Description": "Milovaná Imouto je přímo předemnou",
+      "Description": "Milovaná dívka je přímo předemnou",
       "Pop Up Desc": "To je moje drahá Imouto!"
     },     
     "JoyStation V": {
       "Name": "Dostal si herní konzoli!",
-      "Description": "Nyní můžes hrát hry s \\str[120]!",
+      "Description": "Nyní můžes hrát videohry s \\str[120]!",
       "Pop Up Desc": [
         "\\fs[18]Možná to bude hra, ",
-        "ale né něco co hraješ"
+        "ale né něco, co hraješ"
       ]
     },
     "MyImoutoIsJustThatCute": {
-      "Name": "Moje malá sestra je prostě tak Roztomilá!",
+      "Name": "Moje malá sestrička je prostě tak roztomilá!",
       "Description": "Náklonost Imouto dosáhla svého vrcholu!",
       "Pop Up Desc": [
-        "\\fs[22]Moje malá sestra ",
-        "je prostě tak Roztomilá!"
+        "\\fs[22]Moje malá sestrička ",
+        "je prostě tak roztomilá!"
       ]
     },        
     "ImoutoBodyPillow": {
-      "Name": "Imoutin lidský polštář",
+      "Name": "Imouto alá lidský polštář",
       "Description": "Nyní si můžes posadit Imouto na klín během hraní!",
       "Pop Up Desc": "\\fs[20]Není mít Imouto dost?"
     },
     "GachaIsBadCivilization": {
       "Name": "Gacha je špatná civilizace!",
-      "Description": "Utratil moc peněz na gachi a dostal si napomentu od Imouto…",
+      "Description": "Utratil moc peněz na gachi a dostal si vynadáno od Imouto...",
       "Pop Up Desc": "\\fs[21]Gacha je špatná civilizace!"
     }, 
     "CanYouSendMe50K": {
       "Name": "Můžeš mi poslat 50K~?",
       "Description": "Dal si Imouto přes 50,000 kapesného najdnou!",
       "Pop Up Desc": "Můžeš mi poslat 50K~?"
+    },
+    "ShinkonSantaku": {
+      "Name": "Tři možnosti pro novomanžele!",
+      "Description": "Nechal si Imouta odehrát Tři možnosti pro novomanžele!",
+      "Pop Up Desc": "Tři možnosti pro novomanžele!"
+    },
+    "ToBeContinued": {
+      "Name": "Pokračování příště",
+      "Description": "Zachytil si vzácný moment!",
+      "Pop Up Desc": "Pokračování příště"
     },           
     "PeopleDieIfTheyAreKilled": {
       "Name": "Lidé umírají když jsou zabiti?",
-      "Description": "Tvoje životy spadnou v propasti na nulu…",
+      "Description": "Tvoje životy spadnou v propasti na nulu...",
       "Pop Up Desc": [
         "\\fs[22]Lidé umírají, když",
         "jsou zabiti?"
       ]      
     },
     "HoardingHabit": {
-      "Name": "Zlozvyk hromadění věcí",
-      "Description": "Uložil velké množství věcí do Hvězdných dveří",
+      "Name": "Zlozvyk shromažďovat věci",
+      "Description": "Uložil si velké množství věcí do Hvězdných dveří",
       "Pop Up Desc": [
-        "\\fs[22]Onemocněl jsem chorobou, kde ",
+        "\\fs[22]Onemocněl jsem chorobou, se kterou",
         "když nebudu hromadit věci, tak zemřu."
       ]
     },
     "TransportedToIsekai": {
       "Name": "Přesunut do jiného světa?",
-      "Description": "Nemilosrdně přejet obchodní dodávkou…",
+      "Description": "Nemilosrdně přejet obchodní dodávkou...",
       "Pop Up Desc": "\\fs[20]Reinkarnační magie!?"  
     },
     "YouAreAlreadyDead": {
@@ -96,40 +106,53 @@
     },                          
     "AirKing": {
       "Name": "Král aera",
-      "Description": "Spadl si již tolikrát…",
+      "Description": "Spadl si již tolikrát...",
       "Pop Up Desc": [
-        "\\fs[22]\"Však nechceš být ",
+        "\\fs[22]\"Nechceš být ",
         "kámoš s oblohou!\""
       ]
     },
     "Shichosei": {
-      "Name": "Hvězda znamení smrti",
-      "Description": "Poražen ASABA speciálním útokem",
+      "Name": "Hvězda ve znamení smrti",
+      "Description": "Poražen speciálním útokem ASABA",
       "Pop Up Desc": [
-        "\\fs[22]\"Už to vidíš…",
-        "Hvězdu se znamením smrti!!\""
+        "\\fs[22]\"Už to vidíš...",
+        "Hvězdu ve znamení smrti!!\""
       ]
     },      
     "ServantAndMaster": {
-      "Name": "Pánové a sluhové",
+      "Name": "Pán a služebníci",
       "Description": "Velíš pěti sluhům najednou",
       "Pop Up Desc": [
         "\\fs[22]\"Ptám se tě.",
-        "Jsi náš pán?\""
+        "Jsi náš Pán?\""
       ]
     },
     "BossFirstAppearance": {
-      "Name": "Raduj se při zrození krále!",
-      "Description": "Utkej se poprvé s hlavním záporákem",
-      "Pop Up Desc": "\\fs[18]Raduj se při zrození krále!"
+      "Name": "Radujte se při zrození krále!",
+      "Description": "Utkej se poprvé s Bossem",
+      "Pop Up Desc": "\\fs[18]Radujte se při zrození krále!"
     },           
     "UnlimitedBladeWaste": {
-      "Name": "Nekonečný plýtvač čepelý",
+      "Name": "Nekonečné mrhání čepelí",
       "Description": "Zničil si přes 100 zbraní",
       "Pop Up Desc": [
-        "\\fs[22]\"Máš dost ",
-        "zbraní v zásobě?\""
+        "\\fs[22]\"Máš v zásobě ",
+        "dost zbraní?\""
       ]
+    },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "Právě jsem spatřil záběr k nezaplecení.",
+      "Description": "Zřel jsi zrození Jablečné víly",
+      "Pop Up Desc": [
+        "\\fs[21]Právě jsem spatřil ",
+        "záběr k nezaplecení."
+      ]
+    },
+    "WhoNeedsAFishingRod": {
+      "Name": "Kdo potřebuje rybářský prut?",
+      "Description": "Ulov alespoň 10x něco z vody pomocí výbuchu bomby",
+      "Pop Up Desc": "\\fs[22]Kdo potřebuje rybářský prut?"
     },
      "TheSwordSaintOfTheSticks": {
       "Name": "Světec šermu s klackem",
@@ -170,11 +193,11 @@
       "Pop Up Desc": "Hrej hry s Imouto?"
     },             
     "Milkeddry": {
-      "Name": "Vyždímán do sucha…",
-      "Description": "Nezbyla.. jediná kapka…",
+      "Name": "Vyždímán do sucha...",
+      "Description": "Nezbyla.. jediná kapka...",
       "Pop Up Desc": [
-        "\\fs[22]\"Nezbyla… ",
-        "jediná kapka…\""
+        "\\fs[22]\"Nezbyla... ",
+        "jediná kapka...\""
       ]
     },
     "StairwayToAdulthoodI": {
