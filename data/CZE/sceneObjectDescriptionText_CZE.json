@@ -114,4 +114,23 @@
     "Stále drží její tělesné teplo, a malý kousek ",
 	"látky uprostřed, který vypadá hodně vlhce."
   ]
+	"Fridge": {
+    "objectName": "LV1 Fridge",
+    "objectDescription": [
+      "A large fridge with plenty of room for fresh ingredients",
+      "The door shelves belong to \\str[120], ",
+      "reserved exclusively for her favorite drinks",
+      "Every day brings the adorable sight of her sneaking over ",
+      "to hunt for a cold drink"
+    ],
+    "allDrinksCollected": [
+      "Every flavor is stocked! Enough to keep \\str[120] happy for quite a while!"
+    ],
+    "drinkCapacity": "Drink Capacity",
+    "storedCount": "Stored Amount",
+    "affectionPledgeReward": "Daily Automatic Affection Gain",
+    "moodPledgeReward": "Daily Automatic Mood Gain",
+    "affectionDrinkGain": "Affection Gain When Drunk",
+    "moodDrinkGain": "Mood Gain When Drunk"
+  }
 }
