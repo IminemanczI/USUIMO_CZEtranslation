@@ -415,22 +415,22 @@
   },
   "30": {
     "name": [
-      "Hunter's Dagger"
+      "Lovcova dýka"
     ],
     "subtitle": [
       "\"Death from the muzzle, fortune from the blade\""
     ],
     "description": [
-      "A small, sharp dagger that fits easily in a boot",
-      "To a hunter, it always draws out the prey's final offering"
+      "Malá, ostrá dýka , která akorát padne do boty",
+      "Pro lovce, it always draws out the prey's final offering"
     ],
     "ability": [
-      "Increases chances of meat drops"
+      "Zvyšuje šanci na masnou kořist"
     ]
   },
   "31": {
     "name": [
-      "Misty Night Phantom"
+      "Fantom mlžné noci"
     ],
     "subtitle": [
       "\"This one longs to vanish...\""
@@ -580,39 +580,39 @@
       "No matter who wears it, they'll look absolutely adorable!"
     ],
     "ability": [
-      "Blessed with luck! Items are more likely to drop!"
+      "Blessed with luck! Větší šance na ukořistění předmětů<!"
     ]
   },
   "42": {
     "name": [
-      "Bomb Fiend's Soul"
+      "Duše výbušného běsa"
     ],
     "subtitle": [
-      "\"Explo————sion!!\""
+      "\"Výýýbuch!!\""
     ],
     "description": [
-      "A will that sacrificed everything for explosions",
-      "Now that you bear it, won't you strive for even bigger blasts?"
+      "Jež obětoval všechnu vůli pro exploze",
+      "Nyní, když jsi jejím nositelem, nebudeš směřovat k ještě větším výbuchům?"
     ],
     "ability": [
-      "Small chance to trigger an explosion when attacking or hit",
-      "Reduce self-taken explosion damage by 50%"
+      "Malá šance na výbuch při útoku nebo utrpení poškození",
+      "Snížení sebe poškození z výbuchu o 50%"
     ]
   },
   "43": {
     "name": [
-      "Bladekeepers' Badge"
+      "Odznak strážce čepelí"
     ],
     "subtitle": [
-      "\"You adventurers make me sick!",
-      "Swinging your blades only to kill, never caring about their pain!\""
+      "\"Z vás dobrodruhů je mi zle!",
+      "Oháníte se meči jen pro krev, bez ohledu na jejich bolest!\""
     ],
     "description": [
-      "A badge worn only by comrades who believe in weapon preservation"
+      "Odznak nošený pouze "comrades", kteří věřili v uchovávání zbraní"
     ],
     "ability": [
-      "Attack power -20%, max attack capped at 200",
-      "Reduces all weapon durability loss by 20%"
+      "Síla útoku -20%, maximální poškození omezen na 200",
+      "Snížení opetřebování zbraní o 20%"
     ]
   },
   "44": {
